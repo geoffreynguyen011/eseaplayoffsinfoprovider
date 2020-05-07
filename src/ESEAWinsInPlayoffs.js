@@ -6,7 +6,7 @@ class ESEAWinsInPlayoffs extends React.Component {
             currDiv: '',
             nextDiv: '',
             numWins: '',
-            displayText: ''
+            displayText: '',
         }
         this.handleChange = this.handleChange.bind(this)
         this.handleSubmit = this.handleSubmit.bind(this)
@@ -66,12 +66,27 @@ class ESEAWinsInPlayoffs extends React.Component {
                     displayText: 'You need to either win 3 upper round bracket matches or make the 5th round of lower bracket.'
                 })
             }
+            else {
+                this.setState({ 
+                    displayText: 'Invalid division'
+                })
+            }
+        }
+        else if (this.state.currDiv === 'advanced') {
+            this.setState({ 
+                displayText: 'To move from advanced to MDL, the rules can be found here: https://play.esea.net/news/15568'
+            })
+        }
+        else {
+            this.setState({ 
+                displayText: 'Please select a current division and/or a desired division'
+            })
         }
     }
     
     render() {
         return (
-            <main>
+            <main class='center'>
             <div>Choose what division you are in and what division you want to make:</div>
             <br />
                 <form onSubmit={this.handleSubmit}>

@@ -24,7 +24,10 @@ class ESEAWinsNeedForPlayoffs extends React.Component {
     
     handleSubmit(event) {
         event.preventDefault()
-        if (this.state.division === 'open') {
+        if (this.state.division === '' || this.state.numWins === '') {
+            this.setState({ displayText: 'Please select a division and/or the number of wins'})
+        }
+        else if (this.state.division === 'open') {
             if (this.state.numWins === '' ||
             this.state.numWins === '0' ||
             this.state.numWins === '1' ||
@@ -137,7 +140,7 @@ class ESEAWinsNeedForPlayoffs extends React.Component {
     
   render() {
     return (
-      <main>
+      <main class='center'>
       <br />
       <div>Choose your current division and how many wins you have:</div>
       <br />
