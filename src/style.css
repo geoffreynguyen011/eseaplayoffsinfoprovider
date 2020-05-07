@@ -1,0 +1,29 @@
+body {
+    background-color: blanchedalmond;
+    font-family: verdana
+ }
+ 
+ h1 {
+     color: red;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+ }
+ 
+ h2 {
+     color: blue;
+     text-decoration: underline;
+     font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif
+ }
+ 
+ option {
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+ }
+ 
+ button {
+     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+ }
+ 
+ select {
+     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+ }
+ 
+ 
