@@ -14,14 +14,6 @@ function Intro() {
                 </a>
                 <br />
                 <br />
-                <a
-                    className="ESEA"
-                    href="https://play.esea.net"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                >
-                    ESEA Website
-                </a>
             </header>
         </div>
     )
