@@ -15,6 +15,13 @@ function Footer() {
                             ESEA Website
                         </a>
                     </li>
+                    <li>
+                    <a 
+                    href="https://play.esea.net/content/league_information_CSGO"
+                    >
+                        Current season: season 34
+                    </a>
+                    </li>
                 </ul>
             </div>
         </div>

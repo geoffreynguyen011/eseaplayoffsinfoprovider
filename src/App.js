@@ -12,6 +12,7 @@ function App() {
       <Intro />
       <ESEAWinsNeedForPlayoffs />
       <ESEAWinsInPlayoffs />
+      <br />
       <Footer />
     </div>
 
