@@ -1,5 +1,6 @@
-import React from 'react';
+import React from 'react'
 import Intro from './Intro'
+import Footer from './Footer'
 import ESEAWinsNeedForPlayoffs from './ESEAWinsNeedForPlayoffs'
 import ESEAWinsInPlayoffs from './ESEAWinsInPlayoffs'
 //import './App.css';
@@ -11,6 +12,7 @@ function App() {
       <Intro />
       <ESEAWinsNeedForPlayoffs />
       <ESEAWinsInPlayoffs />
+      <Footer />
     </div>
   );
 }
