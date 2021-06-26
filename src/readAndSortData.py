@@ -10,7 +10,6 @@ count = 0
 array_of_each_team = []
 total_array = []
 
-
 # gets each team and its stats
 # print(Lines[:10])
 for index, line in enumerate(Lines):
@@ -74,12 +73,28 @@ for index, line in enumerate(Lines):
 
 # all teams now in array with eight values in each array
 
-# now sort the data by wins --> rounds won
+# sort data by wins first
 def sortTeamsByWin():
     total_array.sort(key=lambda x:x[2], reverse=True)
 
-sortTeamsByWin()
+# sort data by losses next, passing in wins as parameter
+def sortTeamsByLoss(wins):
+    highest_index, lowest_index = 0, 0
+    array_of_teams_with_equal_wins = []
+    while total_array[highest_index][2] != wins:
+        highest_index += 1
+    while total_array[lowest_index][2] >= wins:
+        if (total_array[lowest_index][2] == wins):
+            array_of_teams_with_equal_wins.append(total_array[lowest_index])
+        lowest_index += 1
+    array_of_teams_with_equal_wins.sort(key=lambda x:x[3])
+    for line, index in enumerate(total_array[highest_index:lowest_index]):
+        total_array[line + highest_index] = array_of_teams_with_equal_wins[line]
 
+sortTeamsByWin()
+# sortTeamsByLoss(11)
+for i in range(1, 15):
+    sortTeamsByLoss(i)
 # teams now sorted by wins
 for line in total_array:
     print(line)
