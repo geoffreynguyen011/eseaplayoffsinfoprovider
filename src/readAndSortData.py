@@ -1,22 +1,28 @@
+# how to sort:
+# first, sort all teams by wins
+# then, for each team with equal number of wins, sort by losses
+# for each of those teams, sort by rounds won
+# then sort by rounds lost (although not entirely necessary, but good implementation)
+# repeat for each
+
 file1 = open('data.txt', 'r')
 Lines = file1.readlines()
 
 count = 0
 
 # format: [
-#     [teamname, wins, losses, ties, win %, streak, rounds won, rounds lost],
-#     [teamname2, wins, losses, ties, win %, streak, rounds won, rounds lost],
+#     [id, teamname, wins, losses, ties, win %, streak, rounds won, rounds lost],
+#     [id, teamname2, wins, losses, ties, win %, streak, rounds won, rounds lost],
+#      ...
 # ]
 array_of_each_team = []
 total_array = []
 
 # gets each team and its stats
-# print(Lines[:10])
 for index, line in enumerate(Lines):
     # id, team_name, wins, losses, ties, win_percent, streak, rounds_won, rounds_lost
     team_name, wins, losses, ties, win_percent, streak, rounds_won, rounds_lost = "", "", "", "", "", "", "", ""
     # start from back, and get each metric
-    # print(line)
     if line[0] == "/":
         continue
     i = len(line) - 2
@@ -79,25 +85,41 @@ def sortTeamsByWin():
 
 # sort data by losses next, passing in wins as parameter
 def sortTeamsByLoss(wins):
-    highest_index, lowest_index = 0, 0
+    highest_index, lowest_index, losses = 0, 0, []
     array_of_teams_with_equal_wins = []
     while total_array[highest_index][2] != wins:
         highest_index += 1
     while total_array[lowest_index][2] >= wins:
         if (total_array[lowest_index][2] == wins):
             array_of_teams_with_equal_wins.append(total_array[lowest_index])
+            if (total_array[lowest_index][3] not in losses):
+                losses.append(total_array[lowest_index][3])
         lowest_index += 1
     array_of_teams_with_equal_wins.sort(key=lambda x:x[3])
     for line, index in enumerate(total_array[highest_index:lowest_index]):
         total_array[line + highest_index] = array_of_teams_with_equal_wins[line]
+    # for line in array_of_teams_with_equal_wins:
+    #     print(line)
+    
+
+# sort data by rounds won next, passing in wins and losses as parameters
+
+# def sortTeamsByRoundsWon(losses):
+    
+
+
+
+# def sortTeamsByRoundsLost(wins, losses, roundsWon):
+#     highest_index, lowest_index = 0, 0
+
 
 sortTeamsByWin()
-# sortTeamsByLoss(11)
-for i in range(1, 15):
-    sortTeamsByLoss(i)
+sortTeamsByLoss(11)
+# for i in range(1, 15):
+#     sortTeamsByLoss(i)
 # teams now sorted by wins
-for line in total_array:
-    print(line)
+# for line in total_array:
+#     print(line)
 
 # arr = [[2, 3, 4, 8], [1, 2, 5, 6], [3, -5, 6, -2]]
 # arr.sort(key=lambda x: x[3])
