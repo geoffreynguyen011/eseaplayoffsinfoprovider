@@ -85,36 +85,65 @@ def sortTeamsByWin():
 
 # sort data by losses next, passing in wins as parameter
 def sortTeamsByLoss(wins):
-    highest_index, lowest_index, losses = 0, 0, []
+    highest_index, lowest_index, losses_array, losses_lowest_index, losses_highest_index = 0, 0, [], 0, 1
     array_of_teams_with_equal_wins = []
-    while total_array[highest_index][2] != wins:
-        highest_index += 1
-    while total_array[lowest_index][2] >= wins:
-        if (total_array[lowest_index][2] == wins):
-            array_of_teams_with_equal_wins.append(total_array[lowest_index])
-            if (total_array[lowest_index][3] not in losses):
-                losses.append(total_array[lowest_index][3])
+    while total_array[lowest_index][2] != wins:
         lowest_index += 1
+    while total_array[highest_index][2] >= wins:
+        if (total_array[highest_index][2] == wins):
+            array_of_teams_with_equal_wins.append(total_array[highest_index])
+            if (total_array[highest_index][3] not in losses_array):
+                losses_array.append(total_array[highest_index][3])
+        highest_index += 1
     array_of_teams_with_equal_wins.sort(key=lambda x:x[3])
-    for line, index in enumerate(total_array[highest_index:lowest_index]):
-        total_array[line + highest_index] = array_of_teams_with_equal_wins[line]
+    for line, index in enumerate(total_array[lowest_index:highest_index]):
+        total_array[line + lowest_index] = array_of_teams_with_equal_wins[line]
     # for line in array_of_teams_with_equal_wins:
     #     print(line)
+    # testing below
+    print(len(array_of_teams_with_equal_wins))
+    # while losses_counter <= losses_array[len(losses_array) - 1]:
+    while losses_highest_index < len(array_of_teams_with_equal_wins):
+        # print(losses_highest_index)
+        # print(array_of_teams_with_equal_wins[losses_highest_index][3], array_of_teams_with_equal_wins[losses_lowest_index][3])
+        if array_of_teams_with_equal_wins[losses_highest_index][3] != array_of_teams_with_equal_wins[losses_lowest_index][3] or losses_highest_index == len(array_of_teams_with_equal_wins) - 1:
+            sortTeamsByRoundsWon(array_of_teams_with_equal_wins[losses_lowest_index:losses_highest_index])
+            losses_lowest_index = losses_highest_index
+        losses_highest_index += 1
+    # for line in array_of_teams_with_equal_wins:
+    #     print(line)
+    # print(total_array)
+    # for line in total_array:
+    #     print(line)
+
+    
+    
     
 
 # sort data by rounds won next, passing in wins and losses as parameters
 
-# def sortTeamsByRoundsWon(losses):
-    
+def sortTeamsByRoundsWon(array_of_teams_with_equal_losses):
+    array_of_teams_with_equal_losses.sort(key=lambda x:x[7], reverse=True)
+    test_array = []
+    wins_lowest_index, wins_highest_index = 0, 1
+    while wins_highest_index < len(array_of_teams_with_equal_losses):
+        if array_of_teams_with_equal_losses[wins_lowest_index][7] != array_of_teams_with_equal_losses[wins_highest_index][7]:
+            test_array.append(sortTeamsByRoundsLost(array_of_teams_with_equal_losses[wins_lowest_index:wins_highest_index]))
+            wins_lowest_index = wins_highest_index
+        wins_highest_index += 1
+    for line in test_array:
+        print(line)
+        
 
 
 
-# def sortTeamsByRoundsLost(wins, losses, roundsWon):
-#     highest_index, lowest_index = 0, 0
+def sortTeamsByRoundsLost(array_of_teams_with_equal_rounds_won):
+    array_of_teams_with_equal_rounds_won.sort(key=lambda x:x[8])
+    return array_of_teams_with_equal_rounds_won
 
 
 sortTeamsByWin()
-sortTeamsByLoss(11)
+sortTeamsByLoss(10)
 # for i in range(1, 15):
 #     sortTeamsByLoss(i)
 # teams now sorted by wins
