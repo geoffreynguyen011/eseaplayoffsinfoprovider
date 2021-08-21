@@ -74,7 +74,7 @@ class ESEAWinsInPlayoffs extends React.Component {
         }
         else if (this.state.currDiv === 'advanced') {
             this.setState({ 
-                displayText: 'To move from advanced to MDL, the rules can be found here: https://play.esea.net/news/15568'
+                displayText: 'To move from advanced to MDL, the rules can be found here: '
             })
         }
         else {
