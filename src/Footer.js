@@ -1,29 +1,29 @@
 import React from 'react'
+import logo from './esea-logo.png'
+import github from './github.png'
+
 
 function Footer() {
+    const logoStyle = {
+        maxWidth: 50,
+        maxHeight: 50,
+    };
     return (
-        <div>
-            <div class='footer'>
-                <ul class='inline'>
+        <div class='footer'>
+            <ul class='inline'>
+                <div class="container">
                     <li>
                         <a href='https://github.com/geoffreynguyen011/eseaplayoffsinfo'>
-                            Github
+                            <img src={github} alt={github} style={logoStyle} />
                         </a>
                     </li>
                     <li>
                         <a href='https://play.esea.net'>
-                            ESEA Website
+                            <img src={logo} alt={logo} style={logoStyle}/>
                         </a>
                     </li>
-                    <li>
-                    <a 
-                    href="https://play.esea.net/content/league_information_CSGO"
-                    >
-                        Current season: season 34
-                    </a>
-                    </li>
-                </ul>
-            </div>
+                </div>
+            </ul>
         </div>
     )
 }

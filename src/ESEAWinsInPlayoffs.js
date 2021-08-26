@@ -1,7 +1,7 @@
 import React from 'react'
 class ESEAWinsInPlayoffs extends React.Component {
-    constructor() {
-        super()
+    constructor(props) {
+        super(props)
         this.state = {
             currDiv: '',
             nextDiv: '',
@@ -86,9 +86,9 @@ class ESEAWinsInPlayoffs extends React.Component {
     
     render() {
         return (
-            <main class='center'>
-            <div>Choose what division you are in and what division you want to make:</div>
-            <br />
+            <div class="container">
+                <h3>Choose what division you are in and what division you want to make:</h3>
+                <br />
                 <form onSubmit={this.handleSubmit}>
                     <label>
                         <select 
@@ -96,6 +96,7 @@ class ESEAWinsInPlayoffs extends React.Component {
                             value={this.state.division}
                             onChange={this.handleChange}
                             name='currDiv'
+                            class="form-select"
                         >
                             <option value=''>Select current division</option>
                             <option value='open'>Open</option>
@@ -109,6 +110,7 @@ class ESEAWinsInPlayoffs extends React.Component {
                             value={this.state.division}
                             onChange={this.handleChange}
                             name='nextDiv'
+                            class="form-select"
                         >
                             <option value=''>Select desired division</option>
                             <option value='open'>Open</option>
@@ -117,13 +119,13 @@ class ESEAWinsInPlayoffs extends React.Component {
                             <option value='advanced'>Advanced</option>
                         </select>
                         <br />
-                        <button>Submit</button>
+                        <button class="btn btn-primary">Submit</button>
                     </label>
                 </form>
                 <div>
                     <h3>{this.state.displayText}</h3>
                 </div>
-            </main>
+            </div>
         )
     }
 }

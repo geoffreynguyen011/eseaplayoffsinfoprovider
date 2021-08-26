@@ -5,6 +5,7 @@ import ESEAWinsNeedForPlayoffs from './ESEAWinsNeedForPlayoffs'
 import ESEAWinsInPlayoffs from './ESEAWinsInPlayoffs'
 //import './App.css';
 import './style.css'
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
@@ -12,7 +13,6 @@ function App() {
       <Intro />
       <ESEAWinsNeedForPlayoffs />
       <ESEAWinsInPlayoffs />
-      <br />
       <Footer />
     </div>
 

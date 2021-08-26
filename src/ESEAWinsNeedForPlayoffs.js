@@ -140,10 +140,8 @@ class ESEAWinsNeedForPlayoffs extends React.Component {
     
   render() {
     return (
-      <main class='center'>
-      <br />
-      <div>Choose your current division and how many wins you have:</div>
-      <br />
+      <div class='container'>
+        <h3>Choose your current division and how many wins you have:</h3>
         <form className='info-form' onSubmit={this.handleSubmit}>
             <label>
                 <select 
@@ -151,6 +149,7 @@ class ESEAWinsNeedForPlayoffs extends React.Component {
                     value={this.state.division}
                     onChange={this.handleChange}
                     name='division'
+                    class="form-select"
                 >
                     <option value=''>Select division</option>
                     <option value='open'>Open</option>
@@ -164,6 +163,7 @@ class ESEAWinsNeedForPlayoffs extends React.Component {
                     name='numWins'
                     value={this.state.numWins}
                     onChange={this.handleChange}
+                    class="form-select"
                 >
                     <option value=''>Select wins</option>
                     <option value='0'>0</option>
@@ -186,14 +186,14 @@ class ESEAWinsNeedForPlayoffs extends React.Component {
                 </select>
                 
                 <br />
-                <button>Submit</button>
+                <button class="btn btn-primary">Submit</button>
                 <div>
                     <h3>{this.state.displayText}</h3>
                 </div>
             </label>
         </form>
         
-      </main>
+      </div>
     );
   }
 }
