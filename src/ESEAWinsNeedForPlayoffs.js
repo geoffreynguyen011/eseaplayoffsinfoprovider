@@ -28,9 +28,7 @@ class ESEAWinsNeedForPlayoffs extends React.Component {
             this.setState({ displayText: 'Please select a division and/or the number of wins'})
         }
         else if (this.state.division === 'open') {
-            if (this.state.numWins === '' || this.state.numWins === '0' || this.state.numWins === '1' ||
-            this.state.numWins === '2' || this.state.numWins === '3' || this.state.numWins === '4' ||
-            this.state.numWins === '5' || this.state.numWins === '6' ||this.state.numWins === '7' || this.state.numWins === '8') {
+            if (parseInt(this.state.numWins) <= 8) {
                 this.setState({ displayText: 'Did not make playoffs' })
             }
             else if (this.state.numWins === '9' || this.state.numWins === '10') {
