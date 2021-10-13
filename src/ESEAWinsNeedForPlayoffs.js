@@ -17,6 +17,7 @@ class ESEAWinsNeedForPlayoffs extends React.Component {
     
     handleChange(event) {
         const {name, value} = event.target
+        console.log(value);
         this.setState({ 
             [name]: value
         })
@@ -39,10 +40,7 @@ class ESEAWinsNeedForPlayoffs extends React.Component {
             }
         }
         else if (this.state.division === 'intermediate') {
-            if (this.state.numWins === '' || this.state.numWins === '0' || this.state.numWins === '1' ||
-            this.state.numWins === '2' || this.state.numWins === '3' || this.state.numWins === '4' ||
-            this.state.numWins === '5' || this.state.numWins === '6' || this.state.numWins === '7' ||
-            this.state.numWins === '8' || this.state.numWins === '9') {
+            if (parseInt(this.state.numWins) <= 9) {
                 this.setState({ displayText: 'Did not make playoffs' })
             }
             else if (this.state.numWins === '10') {
@@ -53,10 +51,7 @@ class ESEAWinsNeedForPlayoffs extends React.Component {
             }
         }
         else if (this.state.division === 'main') {
-            if (this.state.numWins === '' || this.state.numWins === '0' || this.state.numWins === '1' ||
-            this.state.numWins === '2' || this.state.numWins === '3' || this.state.numWins === '4' ||
-            this.state.numWins === '5' || this.state.numWins === '6' || this.state.numWins === '7' ||
-            this.state.numWins === '8' || this.state.numWins === '9') {
+            if (parseInt(this.state.numWins) <= 9) {
                 this.setState({ displayText: 'Did not make playoffs' })
             }
             else if (this.state.numWins === '10') {
@@ -67,9 +62,7 @@ class ESEAWinsNeedForPlayoffs extends React.Component {
             }
         }
         else if (this.state.division === 'advanced') {
-            if (this.state.numWins === '' ||  this.state.numWins === '0' ||this.state.numWins === '1' ||
-            this.state.numWins === '2' || this.state.numWins === '3' || this.state.numWins === '4' ||
-            this.state.numWins === '5' || this.state.numWins === '6' || this.state.numWins === '7' || this.state.numWins === '8') {
+            if (parseInt(this.state.numWins) <= 8) {
                 this.setState({ displayText: 'Did not make playoffs' })
             }
             else if (this.state.numWins === '9' || this.state.numWins === '10' ) {
@@ -93,7 +86,7 @@ class ESEAWinsNeedForPlayoffs extends React.Component {
                     value={this.state.division}
                     onChange={this.handleChange}
                     name='division'
-                    class="form-select"
+                    className="form-select"
                 >
                     <option value=''>Select division</option>
                     <option value='open'>Open</option>
@@ -107,7 +100,7 @@ class ESEAWinsNeedForPlayoffs extends React.Component {
                     name='numWins'
                     value={this.state.numWins}
                     onChange={this.handleChange}
-                    class="form-select"
+                    className="form-select"
                 >
                     <option value=''>Select wins</option>
                     <option value='16'>16</option>
@@ -130,7 +123,7 @@ class ESEAWinsNeedForPlayoffs extends React.Component {
                 </select>
                 
                 <br />
-                <button class="btn btn-primary">Submit</button>
+                <button className="btn btn-primary">Submit</button>
                 <div>
                     <h3 className="pt-3">{this.state.displayText}</h3>
                 </div>

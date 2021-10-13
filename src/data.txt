@@ -1,519 +1,519 @@
-1. Infinite Potential 14 0 0 100.0% W14 224 96
-2. Cyberstorm Blue 13 1 0 93.00% W12 223 99
-3. autotune 12 1 0 92.00% W8 199 121
-4. shitterluck 12 2 0 86.00% W1 219 138
-5. PAPER PLANEZ 11 2 0 85.00% L1 193 103
-6. Magic School Bus 11 2 0 85.00% W1 188 120
-7. HavYouSeen a Physician 11 3 0 79.00% L1 216 139
-8. kev2stronk 11 3 0 79.00% L1 215 120
-9. Trie of Lucid 11 3 0 79.00% W4 213 150
-10. God Bless America 11 3 0 79.00% W6 212 115
-11. MUTED 5 11 3 0 79.00% W2 210 131
-12. Strctly Business 11 3 0 79.00% W3 210 135
-13. ExaltedGG 11 3 0 79.00% W2 210 158
-14. Gifted Moments 11 3 0 79.00% L2 208 140
-15. 5 Monkeys 11 3 0 79.00% W11 206 116
-16. cre of flunkies 11 3 0 79.00% W1 206 170
-17. Angry Beavers 11 3 0 79.00% W4 204 161
-18. Brylers Bake Shop 11 3 0 79.00% L1 201 130
-19. PUCIDADS 11 3 0 79.00% W2 200 134
-20. Team Manic 11 3 0 79.00% L1 197 121
-21. Akiba Gaming 10 3 0 77.00% W5 190 150
-22. Uncharted 10 4 0 71.00% L1 209 148
-23. Digital Dynasty 10 4 0 71.00% W1 208 156
-24. Macdonia, The Former Yugoslav Republic Of  Metins Mangos v2 10 4 0 71.00% W1 207 129
-25. FilthyCasuals 10 4 0 71.00% W1 207 149
-26. Big Honkers 10 4 0 71.00% W1 206 131
-27. ON PAZUZU 10 4 0 71.00% W4 206 147
-28. Chupapi Munyayo 10 4 0 71.00% W1 205 141
-29. VICE Gaming 10 4 0 71.00% L3 204 148
-30. Trevs Money Crew 10 4 0 71.00% W4 203 149
-31. Legion Esports Academy 10 4 0 71.00% W1 202 156
-32. Smarter Esports 10 4 0 71.00% W3 200 121
-33. Balsack United 10 4 0 71.00% L2 199 157
-34. SteensWifus 10 4 0 71.00% W8 195 120
-35. All Cops are Pog 10 4 0 71.00% W4 191 145
-36. UO Academy 9 4 0 69.00% L1 197 133
-37. CatGirls Inc 9 4 0 69.00% L2 189 149
-38. AK47 BOYZ 9 4 0 69.00% L2 185 136
-39. Sploush Troupe 9 4 0 69.00% W1 181 146
-40. integration gaming club 9 4 0 69.00% W1 178 127
-41. D3adDrop 9 5 0 64.00% W6 211 154
-42. Slay3r 9 5 0 64.00% L1 209 163
-43. xpLicit 9 5 0 64.00% W2 208 148
-44. Dijital 9 5 0 64.00% W3 208 152
-45. elementofsurprise 9 5 0 64.00% W2 205 148
-46. MOONCUM 9 5 0 64.00% W2 205 185
-47. United-Over-Rotate 9 5 0 64.00% W1 200 149
-48. Cyrious 9 5 0 64.00% W3 199 163
-49. Fist Bumps on Land 9 5 0 64.00% W5 199 167
-50. Zero Hoots Gang 9 5 0 64.00% L1 199 173
-51. Resurgence 9 5 0 64.00% W5 196 135
-52. New Heights 9 5 0 64.00% L2 196 176
-53. SMOOTH BRAIN SWINGERS 9 5 0 64.00% W1 195 150
-54. Impact Frags Only 9 5 0 64.00% W4 195 158
-55. DRC 9 5 0 64.00% W1 195 165
-56. Deicidal Gaming 9 5 0 64.00% L1 194 145
-57. Delta 8 9 5 0 64.00% W3 194 148
-58. Zamgaa Anime Aimers 9 5 0 64.00% W1 193 133
-59. Kill-Zone ESports 9 5 0 64.00% W1 193 151
-60. bugod 9 5 0 64.00% L1 193 152
-61. Aim Bots 9 5 0 64.00% W3 193 156
-62. Gnomads 9 5 0 64.00% W1 193 175
-63. walkers fan club REBORN 9 5 0 64.00% W1 192 141
-64. ESC_Velocity 9 5 0 64.00% L1 190 129
-65. BananaasInPyjamas 9 5 0 64.00% W2 189 169
-66. church of trevor 9 5 0 64.00% W3 185 171
-67. Mythic Academy 9 5 0 64.00% W6 184 140
-68. Lettuce Frag 9 5 0 64.00% W1 181 163
-69. HotLoaders 9 5 0 64.00% W7 176 160
-70. Big PP CS 9 5 0 64.00% W2 168 144
-71. EZ4Bois 8 5 0 62.00% W4 176 148
-72. The Wife Beaters 8 5 0 62.00% W3 170 151
-73. insectoid rebellion 8 5 0 62.00% L5 170 153
-74. One and Dones 8 5 0 62.00% L1 169 142
-75. soa 8 5 0 62.00% W1 166 148
-76. OldLaggy Dudes 8 6 0 57.00% W5 196 142
-77. Selfish Pricks 8 6 0 57.00% L1 195 148
-78. WisyWashed 8 6 0 57.00% L2 193 138
-79. Schism 8 6 0 57.00% W2 193 151
-80. The Incredibles 8 6 0 57.00% W2 191 135
-81. MONITORS OFF 8 6 0 57.00% L3 190 161
-82. Drilers with a hard R 8 6 0 57.00% W1 187 167
-83. Buffalo Wild Wings 8 6 0 57.00% W2 186 178
-84. Marquette CS 8 6 0 57.00% W1 184 153
-85. Ultimatum esports 8 6 0 57.00% W1 183 152
-86. PowerWranglers 8 6 0 57.00% L1 181 155
-87. spltsecond 8 6 0 57.00% W1 179 176
-88. AfterLife 8 6 0 57.00% L1 177 147
-89. Rift Nation 2 8 6 0 57.00% L1 177 154
-90. Quaity Control 8 6 0 57.00% L1 177 172
-91. noSKiP 8 6 0 57.00% W4 177 178
-92. meg dweebs 8 6 0 57.00% L3 176 157
-93. Demolition 8 6 0 57.00% L1 172 169
-94. gas station hot dog 8 6 0 57.00% L1 171 111
-95. Brigade 8 6 0 57.00% L4 168 181
-96. Eat Sports 8 6 0 57.00% W1 163 173
-97. CeRq Fan Club 7 5 0 58.00% L4 145 156
-98. Verum Academy 7 6 0 54.00% L1 180 151
-99. SwayGG 7 6 0 54.00% L4 168 152
-100. Snack Bar 7 6 0 54.00% W3 166 126
-101. Tropical Rain 7 6 0 54.00% L1 165 138
-102. Inaccuracy 7 6 0 54.00% W6 112 128
-103. Sneaky Simps 7 7 0 50.00% L3 204 183
-104. garlic eek 7 7 0 50.00% W5 202 152
-105. The BadHombres 7 7 0 50.00% L2 194 174
-106. Akave Esports 7 7 0 50.00% L1 191 174
-107. Malicious Intent CS 7 7 0 50.00% L1 188 167
-108. Project Neo 7 7 0 50.00% L2 186 168
-109. The Tinderellas 3 7 7 0 50.00% L1 184 154
-110. Tropic Strom 7 7 0 50.00% L2 181 191
-111. Low Trust Factor 7 7 0 50.00% W2 179 160
-112. extremely beatable 7 7 0 50.00% W2 179 172
-113. For Rudy 7 7 0 50.00% W2 179 193
-114. Fellas In Paris 7 7 0 50.00% L1 178 180
-115. AUTOPILT 7 7 0 50.00% W4 175 142
-116. Vice Esports 7 7 0 50.00% L3 175 164
-117. RunnersUp 7 7 0 50.00% W3 174 154
-118. Dirtypek Gaming 7 7 0 50.00% L3 173 162
-119. Boom N Zoom 7 7 0 50.00% L2 170 168
-120. Focus Learn Improve 7 7 0 50.00% W1 170 178
-121. interesting Team name 7 7 0 50.00% W4 168 165
-122. Smooth Brain Squad 7 7 0 50.00% L4 167 156
-123. CounterStrike University 7 7 0 50.00% W4 167 159
-124. Natural Talent 7 7 0 50.00% L6 166 153
-125. Pub Scrubz 7 7 0 50.00% L3 166 172
-126. DooM Gaming 7 7 0 50.00% L2 164 163
-127. xXTurbo Virgins IWNLxX 7 7 0 50.00% L1 163 166
-128. Kidz In Kages Ink 7 7 0 50.00% L1 160 172
-129. Guatemaa Sons of Satan 7 7 0 50.00% L1 158 175
-130. Major League Vaping 7 7 0 50.00% L1 155 166
-131. NTA Esprts 7 7 0 50.00% L4 151 185
-132. Reincarnated in Open 7 7 0 50.00% L4 151 190
-133. Black Jackals 6 7 0 46.00% L1 168 140
-134. FinandFriends 6 7 0 46.00% W1 166 150
-135. CSTA 6 7 0 46.00% L3 161 157
-136. VibeCheck 6 7 0 46.00% W3 152 151
-137. Isolate Blue 6 7 0 46.00% L1 151 146
-138. EOUGaming 6 7 0 46.00% W1 151 164
-139. Kaoz Red 6 7 0 46.00% W2 150 149
-140. Beaver Eagles 6 7 0 46.00% W2 143 182
-141. Wild Instinct 6 7 0 46.00% L3 142 164
-142. 13th Ammendment 6 8 0 43.00% W1 191 180
-143. AJAX esports 6 8 0 43.00% L2 190 173
-144. Team tosiK 6 8 0 43.00% W1 182 159
-145. Boba Buters 6 8 0 43.00% L7 182 162
-146. Wasted anagement 6 8 0 43.00% L1 178 154
-147. Figure 8 Esports 6 8 0 43.00% W5 176 174
-148. we are the team 6 8 0 43.00% L3 176 196
-149. -Loading- 6 8 0 43.00% W2 171 169
-150. in ur loot room at 4am 6 8 0 43.00% L1 171 180
-151. LK Esports 6 8 0 43.00% L1 168 161
-152. Syndicate CSGO 6 8 0 43.00% L1 168 177
-153. Warriors Wanted 6 8 0 43.00% W1 163 140
-154. We Bag Tea 6 8 0 43.00% L5 161 154
-155. Pegega Widepeekers 6 8 0 43.00% L3 152 179
-156. Full Mogo 6 8 0 43.00% W4 147 185
-157. Sleeping Giants eSports 6 8 0 43.00% L5 147 201
-158. Drunken Menace 6 8 0 43.00% L1 145 162
-159. apex5 6 8 0 43.00% L2 141 160
-160. Syndicate Esports 6 8 0 43.00% L1 138 180
-161. uglyasind00ds 6 8 0 43.00% L1 128 167
-162. Team MIA 5 7 0 42.00% W4 141 135
-163. _Lol123 5 7 0 42.00% L5 133 153
-164. SupperTime 5 7 0 42.00% L6 132 163
-165. Team Alhemy Lightning 5 8 0 38.00% W1 167 165
-166. Two Dads 5 8 0 38.00% L2 144 172
-167. Vicious-Gaming 5 8 0 38.00% W1 142 153
-168. PepegaPEK 5 8 0 38.00% L1 141 160
-169. Gucci Zne 5 8 0 38.00% W2 122 178
-170. Timberwolves 5 9 0 36.00% L2 164 187
-171. Esports Extravaganza 5 9 0 36.00% L4 161 178
-172. Monkey Salad 5 9 0 36.00% L2 155 203
-173. Esports GAS 5 9 0 36.00% L4 154 184
-174. Team Hydrate 5 9 0 36.00% W1 147 172
-175. Kingdom Gaming 5 9 0 36.00% L4 146 196
-176. Fortnite Burger 5 9 0 36.00% W3 143 193
-177. Sweet Potatoes 5 9 0 36.00% W4 139 167
-178. Alea Iata Est 5 9 0 36.00% L6 134 167
-179. CHIMPAIM 5 9 0 36.00% W1 132 175
-180. Nope Nope 5 9 0 36.00% L3 125 186
-181. Academic Apes v2 5 9 0 36.00% L1 118 187
-182. NA Bannermen 4 8 0 33.00% L1 113 142
-183. NuTorious Academy 4 8 0 33.00% W1 97 142
-184. ogres 5 4 8 0 33.00% L8 88 159
-185. xDevious 4 9 0 31.00% L4 158 185
-186. SHEEEEEEEEEEEEEEEEEEEESH 4 9 0 31.00% L2 142 163
-187. NewDaw 4 9 0 31.00% L5 131 166
-188. ItsGood 4 9 0 31.00% L1 101 147
-189. Sexy Men In Snazzy Suits 4 10 0 29.00% L1 172 183
-190. harounPEEK 4 10 0 29.00% L2 167 197
-191. Godamnit Miso 4 10 0 29.00% W1 165 190
-192. Trash Bandits 4 10 0 29.00% W1 146 196
-193. Brovaries 4 10 0 29.00% L1 142 191
-194. Total Recall 4 10 0 29.00% W1 141 186
-195. turtle carried the team 4 10 0 29.00% L6 134 198
-196. Didactic 4 10 0 29.00% L1 132 192
-197. ADMEME 4 10 0 29.00% L2 128 169
-198. Older the Better 4 10 0 29.00% W1 122 188
-199. I Can Not Accept That 4 10 0 29.00% L1 110 176
-200. m1x 3 3 0 50.00% L2 58 77
-201. schizy ucks 3 7 0 30.00% L2 66 127
-202. The Dapper North 3 9 0 25.00% L3 81 163
-203. 7 Defeaer 3 9 0 25.00% L8 77 172
-204. F1mplePeek 3 9 0 25.00% L7 73 186
-205. all aim no brain 3 10 0 23.00% L2 153 182
-206. Shalazala Bangers 3 10 0 23.00% W1 118 170
-207. Subway Sandwich Esports 3 10 0 23.00% L3 103 186
-208. The Chungi 3 10 0 23.00% L9 74 176
-209. Misfits 5 3 11 0 21.00% W2 113 196
-210. 2b 3 11 0 21.00% L9 106 205
-211. GRAVITY 3 11 0 21.00% L8 92 201
-212. Ground Beef 3 11 0 21.00% L1 84 190
-213. ViciousKitties Academy 3 11 0 21.00% L4 82 176
-214. Emperors of the Sea 2 7 0 22.00% L5 41 126
-215. Poggersin Action 2 8 0 20.00% L8 65 141
-216. smoke gas bang ass 2 8 0 20.00% L2 52 138
-217. Jujutsu High 2 8 0 20.00% L5 46 131
-218. Dubai Rats 2 10 0 17.00% L4 104 172
-219. Boneheads 2 10 0 17.00% L7 79 174
-220. Delusional 2 11 0 15.00% L1 104 189
-221. House Platypus 2 11 0 15.00% L1 103 176
-222. Checkl6 2 12 0 14.00% W1 127 201
-223. -Valor- 2 12 0 14.00% L7 102 215
-224. Kumquats 1 5 0 17.00% L4 24 94
-225. heheh 1 9 0 10.00% L8 83 150
-226. Slytherin 1 9 0 10.00% L9 38 152
-227. Dogewatr 1 11 0 8.00% W1 53 176
-228. Cutters 1 13 0 7.00% L3 90 204
-229. Irregulr Rebels 1 13 0 7.00% L7 69 208
-230. Goon Squadron 0 4 0 0.00% L4 22 64
-231. Reviving NA 0 6 0 0.00% L6 7 96
-232. CHUMCLAN 0 6 0 0.00% L6 0 96
-233. Damn I ove Fragging 0 8 0 0.00% L8 23 128
-234. A Tier  Team 0 8 0 0.00% L8 14 128
-235. PSDN 0 8 0 0.00% L8 12 128
+1. Infinite Potential 14 0 0 z W14 224 96
+2. Cyberstorm Blue 13 1 0 z W12 223 99
+3. autotune 12 1 0 z W8 199 121
+4. shitterluck 12 2 0 z W1 219 138
+5. PAPER PLANEZ 11 2 0 z L1 193 103
+6. Magic School Bus 11 2 0 z W1 188 120
+7. HavYouSeen a Physician 11 3 0 z L1 216 139
+8. kev2stronk 11 3 0 z L1 215 120
+9. Trie of Lucid 11 3 0 z W4 213 150
+10. God Bless America 11 3 0 z W6 212 115
+11. MUTED 5 11 3 0 z W2 210 131
+12. Strctly Business 11 3 0 z W3 210 135
+13. ExaltedGG 11 3 0 z W2 210 158
+14. Gifted Moments 11 3 0 z L2 208 140
+15. 5 Monkeys 11 3 0 z W11 206 116
+16. cre of flunkies 11 3 0 z W1 206 170
+17. Angry Beavers 11 3 0 z W4 204 161
+18. Brylers Bake Shop 11 3 0 z L1 201 130
+19. PUCIDADS 11 3 0 z W2 200 134
+20. Team Manic 11 3 0 z L1 197 121
+21. Akiba Gaming 10 3 0 z W5 190 150
+22. Uncharted 10 4 0 z L1 209 148
+23. Digital Dynasty 10 4 0 z W1 208 156
+24. Macdonia, The Former Yugoslav Republic Of  Metins Mangos v2 10 4 0 z W1 207 129
+25. FilthyCasuals 10 4 0 z W1 207 149
+26. Big Honkers 10 4 0 z W1 206 131
+27. ON PAZUZU 10 4 0 z W4 206 147
+28. Chupapi Munyayo 10 4 0 z W1 205 141
+29. VICE Gaming 10 4 0 z L3 204 148
+30. Trevs Money Crew 10 4 0 z W4 203 149
+31. Legion Esports Academy 10 4 0 z W1 202 156
+32. Smarter Esports 10 4 0 z W3 200 121
+33. Balsack United 10 4 0 z L2 199 157
+34. SteensWifus 10 4 0 z W8 195 120
+35. All Cops are Pog 10 4 0 z W4 191 145
+36. UO Academy 9 4 0 z L1 197 133
+37. CatGirls Inc 9 4 0 z L2 189 149
+38. AK47 BOYZ 9 4 0 z L2 185 136
+39. Sploush Troupe 9 4 0 z W1 181 146
+40. integration gaming club 9 4 0 z W1 178 127
+41. D3adDrop 9 5 0 z W6 211 154
+42. Slay3r 9 5 0 z L1 209 163
+43. xpLicit 9 5 0 z W2 208 148
+44. Dijital 9 5 0 z W3 208 152
+45. elementofsurprise 9 5 0 z W2 205 148
+46. MOONCUM 9 5 0 z W2 205 185
+47. United-Over-Rotate 9 5 0 z W1 200 149
+48. Cyrious 9 5 0 z W3 199 163
+49. Fist Bumps on Land 9 5 0 z W5 199 167
+50. Zero Hoots Gang 9 5 0 z L1 199 173
+51. Resurgence 9 5 0 z W5 196 135
+52. New Heights 9 5 0 z L2 196 176
+53. SMOOTH BRAIN SWINGERS 9 5 0 z W1 195 150
+54. Impact Frags Only 9 5 0 z W4 195 158
+55. DRC 9 5 0 z W1 195 165
+56. Deicidal Gaming 9 5 0 z L1 194 145
+57. Delta 8 9 5 0 z W3 194 148
+58. Zamgaa Anime Aimers 9 5 0 z W1 193 133
+59. Kill-Zone ESports 9 5 0 z W1 193 151
+60. bugod 9 5 0 z L1 193 152
+61. Aim Bots 9 5 0 z W3 193 156
+62. Gnomads 9 5 0 z W1 193 175
+63. walkers fan club REBORN 9 5 0 z W1 192 141
+64. ESC_Velocity 9 5 0 z L1 190 129
+65. BananaasInPyjamas 9 5 0 z W2 189 169
+66. church of trevor 9 5 0 z W3 185 171
+67. Mythic Academy 9 5 0 z W6 184 140
+68. Lettuce Frag 9 5 0 z W1 181 163
+69. HotLoaders 9 5 0 z W7 176 160
+70. Big PP CS 9 5 0 z W2 168 144
+71. EZ4Bois 8 5 0 z W4 176 148
+72. The Wife Beaters 8 5 0 z W3 170 151
+73. insectoid rebellion 8 5 0 z L5 170 153
+74. One and Dones 8 5 0 z L1 169 142
+75. soa 8 5 0 z W1 166 148
+76. OldLaggy Dudes 8 6 0 z W5 196 142
+77. Selfish Pricks 8 6 0 z L1 195 148
+78. WisyWashed 8 6 0 z L2 193 138
+79. Schism 8 6 0 z W2 193 151
+80. The Incredibles 8 6 0 z W2 191 135
+81. MONITORS OFF 8 6 0 z L3 190 161
+82. Drilers with a hard R 8 6 0 z W1 187 167
+83. Buffalo Wild Wings 8 6 0 z W2 186 178
+84. Marquette CS 8 6 0 z W1 184 153
+85. Ultimatum esports 8 6 0 z W1 183 152
+86. PowerWranglers 8 6 0 z L1 181 155
+87. spltsecond 8 6 0 z W1 179 176
+88. AfterLife 8 6 0 z L1 177 147
+89. Rift Nation 2 8 6 0 z L1 177 154
+90. Quaity Control 8 6 0 z L1 177 172
+91. noSKiP 8 6 0 z W4 177 178
+92. meg dweebs 8 6 0 z L3 176 157
+93. Demolition 8 6 0 z L1 172 169
+94. gas station hot dog 8 6 0 z L1 171 111
+95. Brigade 8 6 0 z L4 168 181
+96. Eat Sports 8 6 0 z W1 163 173
+97. CeRq Fan Club 7 5 0 z L4 145 156
+98. Verum Academy 7 6 0 z L1 180 151
+99. SwayGG 7 6 0 z L4 168 152
+100. Snack Bar 7 6 0 z W3 166 126
+101. Tropical Rain 7 6 0 z L1 165 138
+102. Inaccuracy 7 6 0 z W6 112 128
+103. Sneaky Simps 7 7 0 z L3 204 183
+104. garlic eek 7 7 0 z W5 202 152
+105. The BadHombres 7 7 0 z L2 194 174
+106. Akave Esports 7 7 0 z L1 191 174
+107. Malicious Intent CS 7 7 0 z L1 188 167
+108. Project Neo 7 7 0 z L2 186 168
+109. The Tinderellas 3 7 7 0 z L1 184 154
+110. Tropic Strom 7 7 0 z L2 181 191
+111. Low Trust Factor 7 7 0 z W2 179 160
+112. extremely beatable 7 7 0 z W2 179 172
+113. For Rudy 7 7 0 z W2 179 193
+114. Fellas In Paris 7 7 0 z L1 178 180
+115. AUTOPILT 7 7 0 z W4 175 142
+116. Vice Esports 7 7 0 z L3 175 164
+117. RunnersUp 7 7 0 z W3 174 154
+118. Dirtypek Gaming 7 7 0 z L3 173 162
+119. Boom N Zoom 7 7 0 z L2 170 168
+120. Focus Learn Improve 7 7 0 z W1 170 178
+121. interesting Team name 7 7 0 z W4 168 165
+122. Smooth Brain Squad 7 7 0 z L4 167 156
+123. CounterStrike University 7 7 0 z W4 167 159
+124. Natural Talent 7 7 0 z L6 166 153
+125. Pub Scrubz 7 7 0 z L3 166 172
+126. DooM Gaming 7 7 0 z L2 164 163
+127. xXTurbo Virgins IWNLxX 7 7 0 z L1 163 166
+128. Kidz In Kages Ink 7 7 0 z L1 160 172
+129. Guatemaa Sons of Satan 7 7 0 z L1 158 175
+130. Major League Vaping 7 7 0 z L1 155 166
+131. NTA Esprts 7 7 0 z L4 151 185
+132. Reincarnated in Open 7 7 0 z L4 151 190
+133. Black Jackals 6 7 0 z L1 168 140
+134. FinandFriends 6 7 0 z W1 166 150
+135. CSTA 6 7 0 z L3 161 157
+136. VibeCheck 6 7 0 z W3 152 151
+137. Isolate Blue 6 7 0 z L1 151 146
+138. EOUGaming 6 7 0 z W1 151 164
+139. Kaoz Red 6 7 0 z W2 150 149
+140. Beaver Eagles 6 7 0 z W2 143 182
+141. Wild Instinct 6 7 0 z L3 142 164
+142. 13th Ammendment 6 8 0 z W1 191 180
+143. AJAX esports 6 8 0 z L2 190 173
+144. Team tosiK 6 8 0 z W1 182 159
+145. Boba Buters 6 8 0 z L7 182 162
+146. Wasted anagement 6 8 0 z L1 178 154
+147. Figure 8 Esports 6 8 0 z W5 176 174
+148. we are the team 6 8 0 z L3 176 196
+149. -Loading- 6 8 0 z W2 171 169
+150. in ur loot room at 4am 6 8 0 z L1 171 180
+151. LK Esports 6 8 0 z L1 168 161
+152. Syndicate CSGO 6 8 0 z L1 168 177
+153. Warriors Wanted 6 8 0 z W1 163 140
+154. We Bag Tea 6 8 0 z L5 161 154
+155. Pegega Widepeekers 6 8 0 z L3 152 179
+156. Full Mogo 6 8 0 z W4 147 185
+157. Sleeping Giants eSports 6 8 0 z L5 147 201
+158. Drunken Menace 6 8 0 z L1 145 162
+159. apex5 6 8 0 z L2 141 160
+160. Syndicate Esports 6 8 0 z L1 138 180
+161. uglyasind00ds 6 8 0 z L1 128 167
+162. Team MIA 5 7 0 z W4 141 135
+163. _Lol123 5 7 0 z L5 133 153
+164. SupperTime 5 7 0 z L6 132 163
+165. Team Alhemy Lightning 5 8 0 z W1 167 165
+166. Two Dads 5 8 0 z L2 144 172
+167. Vicious-Gaming 5 8 0 z W1 142 153
+168. PepegaPEK 5 8 0 z L1 141 160
+169. Gucci Zne 5 8 0 z W2 122 178
+170. Timberwolves 5 9 0 z L2 164 187
+171. Esports Extravaganza 5 9 0 z L4 161 178
+172. Monkey Salad 5 9 0 z L2 155 203
+173. Esports GAS 5 9 0 z L4 154 184
+174. Team Hydrate 5 9 0 z W1 147 172
+175. Kingdom Gaming 5 9 0 z L4 146 196
+176. Fortnite Burger 5 9 0 z W3 143 193
+177. Sweet Potatoes 5 9 0 z W4 139 167
+178. Alea Iata Est 5 9 0 z L6 134 167
+179. CHIMPAIM 5 9 0 z W1 132 175
+180. Nope Nope 5 9 0 z L3 125 186
+181. Academic Apes v2 5 9 0 z L1 118 187
+182. NA Bannermen 4 8 0 z L1 113 142
+183. NuTorious Academy 4 8 0 z W1 97 142
+184. ogres 5 4 8 0 z L8 88 159
+185. xDevious 4 9 0 z L4 158 185
+186. SHEEEEEEEEEEEEEEEEEEEESH 4 9 0 z L2 142 163
+187. NewDaw 4 9 0 z L5 131 166
+188. ItsGood 4 9 0 z L1 101 147
+189. Sexy Men In Snazzy Suits 4 10 0 z L1 172 183
+190. harounPEEK 4 10 0 z L2 167 197
+191. Godamnit Miso 4 10 0 z W1 165 190
+192. Trash Bandits 4 10 0 z W1 146 196
+193. Brovaries 4 10 0 z L1 142 191
+194. Total Recall 4 10 0 z W1 141 186
+195. turtle carried the team 4 10 0 z L6 134 198
+196. Didactic 4 10 0 z L1 132 192
+197. ADMEME 4 10 0 z L2 128 169
+198. Older the Better 4 10 0 z W1 122 188
+199. I Can Not Accept That 4 10 0 z L1 110 176
+200. m1x 3 3 0 z L2 58 77
+201. schizy ucks 3 7 0 z L2 66 127
+202. The Dapper North 3 9 0 z L3 81 163
+203. 7 Defeaer 3 9 0 z L8 77 172
+204. F1mplePeek 3 9 0 z L7 73 186
+205. all aim no brain 3 10 0 z L2 153 182
+206. Shalazala Bangers 3 10 0 z W1 118 170
+207. Subway Sandwich Esports 3 10 0 z L3 103 186
+208. The Chungi 3 10 0 z L9 74 176
+209. Misfits 5 3 11 0 z W2 113 196
+210. 2b 3 11 0 z L9 106 205
+211. GRAVITY 3 11 0 z L8 92 201
+212. Ground Beef 3 11 0 z L1 84 190
+213. ViciousKitties Academy 3 11 0 z L4 82 176
+214. Emperors of the Sea 2 7 0 z L5 41 126
+215. Poggersin Action 2 8 0 z L8 65 141
+216. smoke gas bang ass 2 8 0 z L2 52 138
+217. Jujutsu High 2 8 0 z L5 46 131
+218. Dubai Rats 2 10 0 z L4 104 172
+219. Boneheads 2 10 0 z L7 79 174
+220. Delusional 2 11 0 z L1 104 189
+221. House Platypus 2 11 0 z L1 103 176
+222. Checkl6 2 12 0 z W1 127 201
+223. -Valor- 2 12 0 z L7 102 215
+224. Kumquats 1 5 0 z L4 24 94
+225. heheh 1 9 0 z L8 83 150
+226. Slytherin 1 9 0 z L9 38 152
+227. Dogewatr 1 11 0 z W1 53 176
+228. Cutters 1 13 0 z L3 90 204
+229. Irregulr Rebels 1 13 0 z L7 69 208
+230. Goon Squadron 0 4 0 z L4 22 64
+231. Reviving NA 0 6 0 z L6 7 96
+232. CHUMCLAN 0 6 0 z L6 0 96
+233. Damn I ove Fragging 0 8 0 z L8 23 128
+234. A Tier  Team 0 8 0 z L8 14 128
+235. PSDN 0 8 0 z L8 12 128
 // East Conference
 // Upcoming Matches
 // # Team W L T PCT S RF RA
-1. Binkerbots 13 0 0 100.0% W13 208 93
-2. TFDYJSTM 13 1 0 93.00% W3 219 83
-3. Uchiha Clan 12 1 0 92.00% W6 198 91
-4. LVCCSGO 12 1 0 92.00% L1 196 95
-5. Valorant Rejects 12 2 0 86.00% W4 215 82
-6. Sans and Papyrus Esports 12 2 0 86.00% W6 214 125
-7. XFactor 12 2 0 86.00% W1 213 118
-8. Born in the 90s 12 2 0 86.00% W8 213 132
-9. WhiteNoise 12 2 0 86.00% W9 209 117
-10. Sassy Sunshines 11 2 0 85.00% W9 197 74
-11. NoPrac 11 2 0 85.00% W1 187 138
-12. Scythe 11 3 0 79.00% W4 208 121
-13. Bowl Cut Boys Academy 11 3 0 79.00% W2 206 145
-14. FREE YARU 11 3 0 79.00% W2 200 121
-15. Cunning Ruse 11 3 0 79.00% W11 196 117
-16. Team Cataclysm 10 3 0 77.00% L1 189 125
-17. MadNecessity 10 3 0 77.00% L1 184 139
-18. Rated Gaming 10 4 0 71.00% L1 209 144
-19. Wise Guys 10 4 0 71.00% L1 208 156
-20. Big Rigger Esports 10 4 0 71.00% W1 206 137
-21. En ode Salvail 10 4 0 71.00% W8 205 103
-22. Dirty Thirties 10 4 0 71.00% W3 205 142
-23. Skull Kings 10 4 0 71.00% W6 203 186
-24. p gang 10 4 0 71.00% L3 202 143
-25. SK Gaming 10 4 0 71.00% W7 201 135
-26. Wis Pixels 10 4 0 71.00% W2 200 141
-27. Core-5 10 4 0 71.00% W1 199 146
-28. LesPTI Bums 10 4 0 71.00% L2 189 159
-29. REST IN PISS BOZO 10 4 0 71.00% W4 179 138
-30. Spartans White 9 3 0 75.00% L1 185 88
-31. The Erick Family 9 3 0 75.00% L1 175 126
-32. Les Pogos 9 4 0 69.00% W4 196 126
-33. Tea Pepeja 9 4 0 69.00% W3 192 128
-34. swogbogs 9 4 0 69.00% L2 188 145
-35. Youreanus LLC 9 4 0 69.00% W3 187 125
-36. 99SLAYER 9 4 0 69.00% W9 183 153
-37. Goo Luck Gophers 9 4 0 69.00% W8 181 110
-38. CuteAim 9 4 0 69.00% L1 179 141
-39. MomyMilkers 9 4 0 69.00% L1 178 143
-40. UVA 9 4 0 69.00% W5 175 173
-41. Nostalgia Trip 9 4 0 69.00% L1 174 151
-42. trash ass esports 9 4 0 69.00% W1 161 150
-43. Central Michigan 9 5 0 64.00% W2 212 153
-44. Balkan Five 9 5 0 64.00% L1 203 135
-45. WideSchmeat INC 9 5 0 64.00% W3 202 127
-46. Shutdown Academy Team 9 5 0 64.00% W5 201 130
-47. Hounds 9 5 0 64.00% L1 197 121
-48. SpiyBoiz 9 5 0 64.00% W1 194 133
-49. eleet 9 5 0 64.00% W6 192 151
-50. MokeyMokey 9 5 0 64.00% L2 192 158
-51. Zero Chemistry 9 5 0 64.00% L1 191 142
-52. Viridian EC 9 5 0 64.00% L2 190 152
-53. Sucko Module 9 5 0 64.00% W4 190 153
-54. HighQ 9 5 0 64.00% L2 189 145
-55. Griefers from Paris 9 5 0 64.00% L3 186 142
-56. DrinkFlashbang 9 5 0 64.00% W4 180 133
-57. GameStop 9 5 0 64.00% L1 174 134
-58. Thiccquid 8 4 0 67.00% W1 166 105
-59. Jay Liter Fan Club 8 4 0 67.00% L2 134 148
-60. Mudhut Assassinators 8 5 0 62.00% L1 181 146
-61. Never 2 Old 8 5 0 62.00% L1 179 130
-62. EXTRA TILT 8 5 0 62.00% L1 165 155
-63. First Aid 8 5 0 62.00% W1 161 164
-64. The Gazeeb 8 5 0 62.00% W1 155 122
-65. Elemental_Esports 8 6 0 57.00% L2 197 159
-66. Open Drinking Team 8 6 0 57.00% L1 197 179
-67. VerOldPeople 8 6 0 57.00% W3 195 138
-68. Whats Updog 8 6 0 57.00% L1 194 157
-69. Johnstown Steel 8 6 0 57.00% W1 193 147
-70. TheHustlers 8 6 0 57.00% W2 192 150
-71. airline estrogen 8 6 0 57.00% W5 191 166
-72. Eagles Nest 8 6 0 57.00% L1 189 165
-73. Satriales 8 6 0 57.00% L4 187 157
-74. Sedated Jp 8 6 0 57.00% W1 186 177
-75. Monkey Tavern 8 6 0 57.00% W1 184 153
-76. Goofy Goobers 8 6 0 57.00% W1 180 161
-77. The Abusement Park -_- 8 6 0 57.00% L4 180 177
-78. Fighting Scots CS 8 6 0 57.00% W6 177 165
-79. Spiritus Vitae 8 6 0 57.00% L1 175 147
-80. Voltron 8 6 0 57.00% W1 162 178
-81. Sava9es Money Crew 8 6 0 57.00% L6 160 149
-82. ChipZone Bastard Chimps 7 6 0 54.00% L1 184 151
-83. Marins Merry Men 7 6 0 54.00% W1 182 141
-84. floppity doppities 7 6 0 54.00% L4 182 141
-85. SuckBrickKid 7 6 0 54.00% W2 180 155
-86. Ripped AF 7 6 0 54.00% L1 180 179
-87. Nigels Denim Jackets 7 6 0 54.00% L2 179 161
-88. Gym Rats 7 6 0 54.00% L6 174 162
-89. ExodusGG 7 6 0 54.00% W1 172 135
-90. North Moosea 7 6 0 54.00% W5 167 127
-91. AM Lumber 7 6 0 54.00% W3 161 175
-92. Team Ignite 7 6 0 54.00% L1 159 146
-93. Cuddle Muffins 7 6 0 54.00% W6 158 135
-94. The Dompers 7 6 0 54.00% W5 154 152
-95. The F1lthy Casuals 7 6 0 54.00% W4 147 133
-96. Captol Raiders 7 6 0 54.00% L2 137 149
-97. rcon quit 7 7 0 50.00% W1 195 136
-98. FrostPoint 7 7 0 50.00% W2 194 172
-99. nimas boy toys 7 7 0 50.00% W1 192 177
-100. Team Plowed 7 7 0 50.00% L1 187 147
-101. Whe 7 7 0 50.00% W3 180 140
-102. Akuma Esports 7 7 0 50.00% L3 175 170
-103. Uncharted Territory 7 7 0 50.00% L2 175 178
-104. Chai Paathas 7 7 0 50.00% L1 172 164
-105. Valors Gaming 7 7 0 50.00% L3 167 150
-106. Ski de ond 7 7 0 50.00% W6 167 150
-107. ASAC 7 7 0 50.00% L2 162 159
-108. Revelations CS 7 7 0 50.00% L1 161 161
-109. RAN Clan 7 7 0 50.00% L5 152 166
-110. FourOneTwo 7 7 0 50.00% W1 149 137
-111. Snailbots 7 7 0 50.00% L2 148 180
-112. Wet Socks 6 6 0 50.00% L6 110 152
-113. pUnited 6 7 0 46.00% L1 177 174
-114. Peek-A-Boomers 6 7 0 46.00% L1 172 168
-115. JP Morgan Executive Team 6 7 0 46.00% L3 169 139
-116. Angy Birds 6 7 0 46.00% W1 164 152
-117. Semen Superheroes 6 7 0 46.00% L3 163 151
-118. Glue Gobblers 6 7 0 46.00% L1 152 151
-119. Dirty Scks 6 7 0 46.00% W2 138 152
-120. Horny Homies Open 6 7 0 46.00% L5 120 157
-121. Sativa Mode 6 8 0 43.00% L2 188 158
-122. categor 5 thugs 6 8 0 43.00% L3 184 185
-123. NorthWind 6 8 0 43.00% L1 180 175
-124. Buttwarriors XL 6 8 0 43.00% W1 165 169
-125. brothaPEEK 6 8 0 43.00% W2 164 146
-126. Aimless Gaming CS 6 8 0 43.00% L1 163 192
-127. Team FROG 6 8 0 43.00% W1 158 175
-128. Team YT 6 8 0 43.00% W3 158 180
-129. The Trees 6 8 0 43.00% W1 155 157
-130. Brock Baddies 6 8 0 43.00% W4 151 160
-131. The Simtoms 6 8 0 43.00% W3 149 152
-132. happyfree 6 8 0 43.00% L1 149 171
-133. ImperialEnvy 6 8 0 43.00% L1 148 155
-134. Down Bad Academy 6 8 0 43.00% W1 124 170
-135. Phallic Blowout 6 8 0 43.00% L3 122 154
-136. dreams re dead 5 7 0 42.00% L2 152 160
-137. Evil Nature 5 7 0 42.00% W3 139 127
-138. Coke Lords 5 7 0 42.00% W4 133 148
-139. Rocque Records 5 7 0 42.00% W4 125 125
-140. Hank Hills Homies 5 7 0 42.00% L4 119 136
-141. STORM Esports Acad 5 8 0 38.00% L1 156 163
-142. eclectiQ 5 8 0 38.00% L2 155 161
-143. Weird Bi Ballin 5 8 0 38.00% W2 154 131
-144. Tira Tu GAAAAAA 5 8 0 38.00% W2 153 172
-145. Robot Mafia 5 8 0 38.00% W1 150 173
-146. Wolf Pakk Gaming 5 8 0 38.00% W1 148 149
-147. EASTBOUND REBORN 5 8 0 38.00% L6 111 147
-148. GatorKnights 5 9 0 36.00% L1 164 165
-149. Goosecoin 5 9 0 36.00% L6 158 180
-150. Blamm 5 9 0 36.00% L1 150 175
-151. Pr1med Esports 5 9 0 36.00% L1 147 205
-152. wr3k 5 9 0 36.00% L1 138 187
-153. Team Mozzarella 5 9 0 36.00% W2 136 144
-154. Unloaded Tyrants 5 9 0 36.00% L2 132 185
-155. All Sauce 5 9 0 36.00% W1 123 190
-156. Thots and Prayers 5 9 0 36.00% L3 114 161
-157. 1v1me 5 9 0 36.00% L7 109 164
-158. TheWoo 4 6 0 40.00% L6 64 118
-159. Warum 4 8 0 33.00% W1 85 148
-160. Slothra 4 9 0 31.00% L1 147 167
-161. Gamer Hnds 4 9 0 31.00% W1 139 176
-162. Geriatric Gamers 4 9 0 31.00% W1 123 165
-163. Wait For It Gaming 4 9 0 31.00% W1 121 181
-164. Dynamo Boyz 4 9 0 31.00% L7 117 175
-165. bare backs 4 9 0 31.00% L2 116 169
-166. angle holders 4 9 0 31.00% L4 103 150
-167. Team Planet 4 10 0 29.00% L1 144 194
-168. Reverse Cowboys 4 10 0 29.00% W1 136 178
-169. cs withthe boys 4 10 0 29.00% W1 131 209
-170. stip 4 10 0 29.00% L1 106 170
-171. Mythic eporn 4 10 0 29.00% L7 105 193
-172. ODU Esports 4 10 0 29.00% L6 99 179
-173. The Guys 4 10 0 29.00% L6 96 202
-174. Ice Tra The Gang 3 9 0 25.00% L3 101 161
-175. Raggle Snarf 3 9 0 25.00% L6 77 180
-176. GonnaReretThis 3 10 0 23.00% L4 104 170
-177. Hypnos_rucI4L 3 10 0 23.00% L6 103 189
-178. Boof Gag 3 10 0 23.00% L8 98 182
-179. polari 3 10 0 23.00% L6 96 173
-180. SKUM_Gaming 3 11 0 21.00% L2 110 187
-181. phantom forces on a 36 3 11 0 21.00% L11 89 215
-182. OGesports 2 6 0 25.00% W2 46 96
-183. Pure Chaos CS 2 8 0 20.00% L6 69 143
-184. Asura 2 10 0 17.00% L7 77 173
-185. carbs Make-A-Wish Kids 2 10 0 17.00% L6 75 162
-186. uR CSG 2 10 0 17.00% L6 58 171
-187. S A C K E R S 2 12 0 14.00% L10 85 210
-188. Team Spd 1 7 0 13.00% L3 31 112
-189. el337 gamers 1 7 0 13.00% L6 30 127
-190. Big Coc Rockers LLC 1 9 0 10.00% L6 40 144
-191. Team TILT 1 9 0 10.00% L9 35 154
-192. MatchFixers 1 9 0 10.00% L8 16 144
-193. Team Peiod 1 11 0 8.00% L3 67 176
-194. Not Ugl 1 11 0 8.00% L5 61 182
-195. noobgamer100brasil 1 11 0 8.00% L11 58 185
-196. OmniGames 1 13 0 7.00% L7 98 223
-197. The Hawtmemerzz 1 13 0 7.00% L4 81 208
-198. Elbow Grease 0 4 0 0.00% L4 5 64
-199. whos candice 0 4 0 0.00% L4 0 64
-200. idiet mrans 0 6 0 0.00% L6 0 96
-201. De_esnutz 0 8 0 0.00% L8 28 128
-202. Rule Of Nines 0 8 0 0.00% L8 10 128
-203. Guwap 0 10 0 0.00% L10 41 160
-204. Cursed Ascension 0 10 0 0.00% L10 35 160
+1. Binkerbots 13 0 0 z W13 208 93
+2. TFDYJSTM 13 1 0 z W3 219 83
+3. Uchiha Clan 12 1 0 z W6 198 91
+4. LVCCSGO 12 1 0 z L1 196 95
+5. Valorant Rejects 12 2 0 z W4 215 82
+6. Sans and Papyrus Esports 12 2 0 z W6 214 125
+7. XFactor 12 2 0 z W1 213 118
+8. Born in the 90s 12 2 0 z W8 213 132
+9. WhiteNoise 12 2 0 z W9 209 117
+10. Sassy Sunshines 11 2 0 z W9 197 74
+11. NoPrac 11 2 0 z W1 187 138
+12. Scythe 11 3 0 z W4 208 121
+13. Bowl Cut Boys Academy 11 3 0 z W2 206 145
+14. FREE YARU 11 3 0 z W2 200 121
+15. Cunning Ruse 11 3 0 z W11 196 117
+16. Team Cataclysm 10 3 0 z L1 189 125
+17. MadNecessity 10 3 0 z L1 184 139
+18. Rated Gaming 10 4 0 z L1 209 144
+19. Wise Guys 10 4 0 z L1 208 156
+20. Big Rigger Esports 10 4 0 z W1 206 137
+21. En ode Salvail 10 4 0 z W8 205 103
+22. Dirty Thirties 10 4 0 z W3 205 142
+23. Skull Kings 10 4 0 z W6 203 186
+24. p gang 10 4 0 z L3 202 143
+25. SK Gaming 10 4 0 z W7 201 135
+26. Wis Pixels 10 4 0 z W2 200 141
+27. Core-5 10 4 0 z W1 199 146
+28. LesPTI Bums 10 4 0 z L2 189 159
+29. REST IN PISS BOZO 10 4 0 z W4 179 138
+30. Spartans White 9 3 0 z L1 185 88
+31. The Erick Family 9 3 0 z L1 175 126
+32. Les Pogos 9 4 0 z W4 196 126
+33. Tea Pepeja 9 4 0 z W3 192 128
+34. swogbogs 9 4 0 z L2 188 145
+35. Youreanus LLC 9 4 0 z W3 187 125
+36. 99SLAYER 9 4 0 z W9 183 153
+37. Goo Luck Gophers 9 4 0 z W8 181 110
+38. CuteAim 9 4 0 z L1 179 141
+39. MomyMilkers 9 4 0 z L1 178 143
+40. UVA 9 4 0 z W5 175 173
+41. Nostalgia Trip 9 4 0 z L1 174 151
+42. trash ass esports 9 4 0 z W1 161 150
+43. Central Michigan 9 5 0 z W2 212 153
+44. Balkan Five 9 5 0 z L1 203 135
+45. WideSchmeat INC 9 5 0 z W3 202 127
+46. Shutdown Academy Team 9 5 0 z W5 201 130
+47. Hounds 9 5 0 z L1 197 121
+48. SpiyBoiz 9 5 0 z W1 194 133
+49. eleet 9 5 0 z W6 192 151
+50. MokeyMokey 9 5 0 z L2 192 158
+51. Zero Chemistry 9 5 0 z L1 191 142
+52. Viridian EC 9 5 0 z L2 190 152
+53. Sucko Module 9 5 0 z W4 190 153
+54. HighQ 9 5 0 z L2 189 145
+55. Griefers from Paris 9 5 0 z L3 186 142
+56. DrinkFlashbang 9 5 0 z W4 180 133
+57. GameStop 9 5 0 z L1 174 134
+58. Thiccquid 8 4 0 z W1 166 105
+59. Jay Liter Fan Club 8 4 0 z L2 134 148
+60. Mudhut Assassinators 8 5 0 z L1 181 146
+61. Never 2 Old 8 5 0 z L1 179 130
+62. EXTRA TILT 8 5 0 z L1 165 155
+63. First Aid 8 5 0 z W1 161 164
+64. The Gazeeb 8 5 0 z W1 155 122
+65. Elemental_Esports 8 6 0 z L2 197 159
+66. Open Drinking Team 8 6 0 z L1 197 179
+67. VerOldPeople 8 6 0 z W3 195 138
+68. Whats Updog 8 6 0 z L1 194 157
+69. Johnstown Steel 8 6 0 z W1 193 147
+70. TheHustlers 8 6 0 z W2 192 150
+71. airline estrogen 8 6 0 z W5 191 166
+72. Eagles Nest 8 6 0 z L1 189 165
+73. Satriales 8 6 0 z L4 187 157
+74. Sedated Jp 8 6 0 z W1 186 177
+75. Monkey Tavern 8 6 0 z W1 184 153
+76. Goofy Goobers 8 6 0 z W1 180 161
+77. The Abusement Park -_- 8 6 0 z L4 180 177
+78. Fighting Scots CS 8 6 0 z W6 177 165
+79. Spiritus Vitae 8 6 0 z L1 175 147
+80. Voltron 8 6 0 z W1 162 178
+81. Sava9es Money Crew 8 6 0 z L6 160 149
+82. ChipZone Bastard Chimps 7 6 0 z L1 184 151
+83. Marins Merry Men 7 6 0 z W1 182 141
+84. floppity doppities 7 6 0 z L4 182 141
+85. SuckBrickKid 7 6 0 z W2 180 155
+86. Ripped AF 7 6 0 z L1 180 179
+87. Nigels Denim Jackets 7 6 0 z L2 179 161
+88. Gym Rats 7 6 0 z L6 174 162
+89. ExodusGG 7 6 0 z W1 172 135
+90. North Moosea 7 6 0 z W5 167 127
+91. AM Lumber 7 6 0 z W3 161 175
+92. Team Ignite 7 6 0 z L1 159 146
+93. Cuddle Muffins 7 6 0 z W6 158 135
+94. The Dompers 7 6 0 z W5 154 152
+95. The F1lthy Casuals 7 6 0 z W4 147 133
+96. Captol Raiders 7 6 0 z L2 137 149
+97. rcon quit 7 7 0 z W1 195 136
+98. FrostPoint 7 7 0 z W2 194 172
+99. nimas boy toys 7 7 0 z W1 192 177
+100. Team Plowed 7 7 0 z L1 187 147
+101. Whe 7 7 0 z W3 180 140
+102. Akuma Esports 7 7 0 z L3 175 170
+103. Uncharted Territory 7 7 0 z L2 175 178
+104. Chai Paathas 7 7 0 z L1 172 164
+105. Valors Gaming 7 7 0 z L3 167 150
+106. Ski de ond 7 7 0 z W6 167 150
+107. ASAC 7 7 0 z L2 162 159
+108. Revelations CS 7 7 0 z L1 161 161
+109. RAN Clan 7 7 0 z L5 152 166
+110. FourOneTwo 7 7 0 z W1 149 137
+111. Snailbots 7 7 0 z L2 148 180
+112. Wet Socks 6 6 0 z L6 110 152
+113. pUnited 6 7 0 z L1 177 174
+114. Peek-A-Boomers 6 7 0 z L1 172 168
+115. JP Morgan Executive Team 6 7 0 z L3 169 139
+116. Angy Birds 6 7 0 z W1 164 152
+117. Semen Superheroes 6 7 0 z L3 163 151
+118. Glue Gobblers 6 7 0 z L1 152 151
+119. Dirty Scks 6 7 0 z W2 138 152
+120. Horny Homies Open 6 7 0 z L5 120 157
+121. Sativa Mode 6 8 0 z L2 188 158
+122. categor 5 thugs 6 8 0 z L3 184 185
+123. NorthWind 6 8 0 z L1 180 175
+124. Buttwarriors XL 6 8 0 z W1 165 169
+125. brothaPEEK 6 8 0 z W2 164 146
+126. Aimless Gaming CS 6 8 0 z L1 163 192
+127. Team FROG 6 8 0 z W1 158 175
+128. Team YT 6 8 0 z W3 158 180
+129. The Trees 6 8 0 z W1 155 157
+130. Brock Baddies 6 8 0 z W4 151 160
+131. The Simtoms 6 8 0 z W3 149 152
+132. happyfree 6 8 0 z L1 149 171
+133. ImperialEnvy 6 8 0 z L1 148 155
+134. Down Bad Academy 6 8 0 z W1 124 170
+135. Phallic Blowout 6 8 0 z L3 122 154
+136. dreams re dead 5 7 0 z L2 152 160
+137. Evil Nature 5 7 0 z W3 139 127
+138. Coke Lords 5 7 0 z W4 133 148
+139. Rocque Records 5 7 0 z W4 125 125
+140. Hank Hills Homies 5 7 0 z L4 119 136
+141. STORM Esports Acad 5 8 0 z L1 156 163
+142. eclectiQ 5 8 0 z L2 155 161
+143. Weird Bi Ballin 5 8 0 z W2 154 131
+144. Tira Tu GAAAAAA 5 8 0 z W2 153 172
+145. Robot Mafia 5 8 0 z W1 150 173
+146. Wolf Pakk Gaming 5 8 0 z W1 148 149
+147. EASTBOUND REBORN 5 8 0 z L6 111 147
+148. GatorKnights 5 9 0 z L1 164 165
+149. Goosecoin 5 9 0 z L6 158 180
+150. Blamm 5 9 0 z L1 150 175
+151. Pr1med Esports 5 9 0 z L1 147 205
+152. wr3k 5 9 0 z L1 138 187
+153. Team Mozzarella 5 9 0 z W2 136 144
+154. Unloaded Tyrants 5 9 0 z L2 132 185
+155. All Sauce 5 9 0 z W1 123 190
+156. Thots and Prayers 5 9 0 z L3 114 161
+157. 1v1me 5 9 0 z L7 109 164
+158. TheWoo 4 6 0 z L6 64 118
+159. Warum 4 8 0 z W1 85 148
+160. Slothra 4 9 0 z L1 147 167
+161. Gamer Hnds 4 9 0 z W1 139 176
+162. Geriatric Gamers 4 9 0 z W1 123 165
+163. Wait For It Gaming 4 9 0 z W1 121 181
+164. Dynamo Boyz 4 9 0 z L7 117 175
+165. bare backs 4 9 0 z L2 116 169
+166. angle holders 4 9 0 z L4 103 150
+167. Team Planet 4 10 0 z L1 144 194
+168. Reverse Cowboys 4 10 0 z W1 136 178
+169. cs withthe boys 4 10 0 z W1 131 209
+170. stip 4 10 0 z L1 106 170
+171. Mythic eporn 4 10 0 z L7 105 193
+172. ODU Esports 4 10 0 z L6 99 179
+173. The Guys 4 10 0 z L6 96 202
+174. Ice Tra The Gang 3 9 0 z L3 101 161
+175. Raggle Snarf 3 9 0 z L6 77 180
+176. GonnaReretThis 3 10 0 z L4 104 170
+177. Hypnos_rucI4L 3 10 0 z L6 103 189
+178. Boof Gag 3 10 0 z L8 98 182
+179. polari 3 10 0 z L6 96 173
+180. SKUM_Gaming 3 11 0 z L2 110 187
+181. phantom forces on a 36 3 11 0 z L11 89 215
+182. OGesports 2 6 0 z W2 46 96
+183. Pure Chaos CS 2 8 0 z L6 69 143
+184. Asura 2 10 0 z L7 77 173
+185. carbs Make-A-Wish Kids 2 10 0 z L6 75 162
+186. uR CSG 2 10 0 z L6 58 171
+187. S A C K E R S 2 12 0 z L10 85 210
+188. Team Spd 1 7 0 z L3 31 112
+189. el337 gamers 1 7 0 z L6 30 127
+190. Big Coc Rockers LLC 1 9 0 z L6 40 144
+191. Team TILT 1 9 0 z L9 35 154
+192. MatchFixers 1 9 0 z L8 16 144
+193. Team Peiod 1 11 0 z L3 67 176
+194. Not Ugl 1 11 0 z L5 61 182
+195. noobgamer100brasil 1 11 0 z L11 58 185
+196. OmniGames 1 13 0 z L7 98 223
+197. The Hawtmemerzz 1 13 0 z L4 81 208
+198. Elbow Grease 0 4 0 z L4 5 64
+199. whos candice 0 4 0 z L4 0 64
+200. idiet mrans 0 6 0 z L6 0 96
+201. De_esnutz 0 8 0 z L8 28 128
+202. Rule Of Nines 0 8 0 z L8 10 128
+203. Guwap 0 10 0 z L10 41 160
+204. Cursed Ascension 0 10 0 z L10 35 160
 // West Conference
 // Upcoming Matches
 // # Team W L T PCT S RF RA
-1. OCEAN Loves Anime 13 1 0 93.00% W5 218 74
-2. roughly speaking 12 2 0 86.00% W5 207 114
-3. Down Bad 11 3 0 79.00% W1 210 113
-4. Team Impetu 11 3 0 79.00% L1 208 155
-5. TEAM DES 11 3 0 79.00% W6 208 158
-6. Fragging for Iris 11 3 0 79.00% W5 207 127
-7. Redux eSports 10 2 0 83.00% L1 174 107
-8. Renvate 10 3 0 77.00% L1 197 115
-9. LMFAOOget rolled gigadog 10 4 0 71.00% W1 208 135
-10. SKDC 10 4 0 71.00% L1 204 130
-11. Late Night Crew 10 4 0 71.00% W6 199 154
-12. Triger-Happy 10 4 0 71.00% W6 193 159
-13. Kins of Swing 10 4 0 71.00% W2 191 148
-14. Master Minds 9 4 0 69.00% L1 188 124
-15. bowlcut gaming 9 4 0 69.00% L1 184 159
-16. 4fu Gamers 9 4 0 69.00% W2 176 154
-17. kil u with a flash 9 5 0 64.00% W1 207 149
-18. Aquatik Esports 9 5 0 64.00% W1 196 157
-19. 3rikvirg 9 5 0 64.00% L2 193 116
-20. BDSAM 9 5 0 64.00% W2 192 159
-21. Team Modern 9 5 0 64.00% W4 190 142
-22. Straight Up 9 5 0 64.00% L1 190 144
-23. uK 9 5 0 64.00% W3 172 139
-24. bulletPoint 8 5 0 62.00% L2 177 150
-25. The Substitutes 8 6 0 57.00% L5 193 164
-26. Defant Ones 8 6 0 57.00% W8 185 171
-27. Bodman Fragrance Spray 8 6 0 57.00% W3 179 144
-28. Tool Academy 8 6 0 57.00% L1 179 158
-29. Hi Octane 8 6 0 57.00% L2 178 155
-30. Guppies With Lasers 8 6 0 57.00% L5 168 179
-31. Rage 7 6 0 54.00% L4 165 138
-32. Fuc Awf V2 7 7 0 50.00% L1 184 135
-33. AffinityGaming 7 7 0 50.00% W3 181 157
-34. Girth Lords 7 7 0 50.00% L1 178 150
-35. de_aztecs 7 7 0 50.00% W2 166 130
-36. moreuniquethaneveryone 7 7 0 50.00% W2 159 164
-37. Veritas-CS 6 5 0 55.00% W3 124 114
-38. raidrops 6 7 0 46.00% L3 146 167
-39. Bogon Bois 6 7 0 46.00% W1 145 145
-40. Hardvard Acadamy 6 7 0 46.00% L3 145 165
-41. Team Mageester Marbles 6 7 0 46.00% L2 130 135
-42. Premium TV For Dogs 6 7 0 46.00% L1 130 139
-43. Simin Aint Easy 6 8 0 43.00% W3 190 171
-44. Drop Superstore 6 8 0 43.00% L3 185 170
-45. Folsom Frat House 6 8 0 43.00% L4 166 170
-46. Team Rogue 6 8 0 43.00% L1 164 161
-47. Swetty5 6 8 0 43.00% L2 159 162
-48. potntElixir 6 8 0 43.00% W3 158 144
-49. The Fiends 6 8 0 43.00% W2 152 182
-50. SUREY JACKS 5 8 0 38.00% W1 146 174
-51. FUCK NERDS 5 8 0 38.00% L2 145 143
-52. Veriglobals 5 8 0 38.00% L6 120 150
-53. Sol Gaming Esports Org 5 9 0 36.00% L4 158 173
-54. Flawless Fatality 5 9 0 36.00% L2 138 199
-55. Anie Stutters 5 9 0 36.00% W2 136 158
-56. Rat With Gun eSports 5 9 0 36.00% W2 132 172
-57. Glock- 5 9 0 36.00% L6 116 153
-58. Synrgia 5 9 0 36.00% W1 113 153
-59. ara ara gaming 5 9 0 36.00% L2 108 179
-60. Cafe Rio Esports 4 9 0 31.00% L7 108 174
-61. Omnia Paratus Gaming 4 10 0 29.00% L2 130 179
-62. Depression 3 9 0 25.00% L8 85 170
-63. NA Prospect 3 9 0 25.00% L2 78 163
-64. Seattle University 3 11 0 21.00% L1 132 189
-65. Siler 1 Kids 3 11 0 21.00% W1 84 190
-66. Druken Fools 3 11 0 21.00% L1 80 181
-67. teamPERSEVERE 2 10 0 17.00% L4 76 167
-68. Tea Suave 2 12 0 14.00% L3 99 201
-69. Enjoy The Free Wins 2 12 0 14.00% L8 62 196
-70. Fallen Blixkys 1 7 0 13.00% L5 36 114
-71. big tiddy waifu squad 0 4 0 0.00% L4 0 64
-72. The Hairy Scary Bandits 0 4 0 0.00% L4 0 64
-73. Catchii McQueen 0 4 0 0.00% L4 0 64
-74. CalI Queens 0 10 0 0.00% L10 2 160
+1. OCEAN Loves Anime 13 1 0 z W5 218 74
+2. roughly speaking 12 2 0 z W5 207 114
+3. Down Bad 11 3 0 z W1 210 113
+4. Team Impetu 11 3 0 z L1 208 155
+5. TEAM DES 11 3 0 z W6 208 158
+6. Fragging for Iris 11 3 0 z W5 207 127
+7. Redux eSports 10 2 0 z L1 174 107
+8. Renvate 10 3 0 z L1 197 115
+9. LMFAOOget rolled gigadog 10 4 0 z W1 208 135
+10. SKDC 10 4 0 z L1 204 130
+11. Late Night Crew 10 4 0 z W6 199 154
+12. Triger-Happy 10 4 0 z W6 193 159
+13. Kins of Swing 10 4 0 z W2 191 148
+14. Master Minds 9 4 0 z L1 188 124
+15. bowlcut gaming 9 4 0 z L1 184 159
+16. 4fu Gamers 9 4 0 z W2 176 154
+17. kil u with a flash 9 5 0 z W1 207 149
+18. Aquatik Esports 9 5 0 z W1 196 157
+19. 3rikvirg 9 5 0 z L2 193 116
+20. BDSAM 9 5 0 z W2 192 159
+21. Team Modern 9 5 0 z W4 190 142
+22. Straight Up 9 5 0 z L1 190 144
+23. uK 9 5 0 z W3 172 139
+24. bulletPoint 8 5 0 z L2 177 150
+25. The Substitutes 8 6 0 z L5 193 164
+26. Defant Ones 8 6 0 z W8 185 171
+27. Bodman Fragrance Spray 8 6 0 z W3 179 144
+28. Tool Academy 8 6 0 z L1 179 158
+29. Hi Octane 8 6 0 z L2 178 155
+30. Guppies With Lasers 8 6 0 z L5 168 179
+31. Rage 7 6 0 z L4 165 138
+32. Fuc Awf V2 7 7 0 z L1 184 135
+33. AffinityGaming 7 7 0 z W3 181 157
+34. Girth Lords 7 7 0 z L1 178 150
+35. de_aztecs 7 7 0 z W2 166 130
+36. moreuniquethaneveryone 7 7 0 z W2 159 164
+37. Veritas-CS 6 5 0 z W3 124 114
+38. raidrops 6 7 0 z L3 146 167
+39. Bogon Bois 6 7 0 z W1 145 145
+40. Hardvard Acadamy 6 7 0 z L3 145 165
+41. Team Mageester Marbles 6 7 0 z L2 130 135
+42. Premium TV For Dogs 6 7 0 z L1 130 139
+43. Simin Aint Easy 6 8 0 z W3 190 171
+44. Drop Superstore 6 8 0 z L3 185 170
+45. Folsom Frat House 6 8 0 z L4 166 170
+46. Team Rogue 6 8 0 z L1 164 161
+47. Swetty5 6 8 0 z L2 159 162
+48. potntElixir 6 8 0 z W3 158 144
+49. The Fiends 6 8 0 z W2 152 182
+50. SUREY JACKS 5 8 0 z W1 146 174
+51. FUCK NERDS 5 8 0 z L2 145 143
+52. Veriglobals 5 8 0 z L6 120 150
+53. Sol Gaming Esports Org 5 9 0 z L4 158 173
+54. Flawless Fatality 5 9 0 z L2 138 199
+55. Anie Stutters 5 9 0 z W2 136 158
+56. Rat With Gun eSports 5 9 0 z W2 132 172
+57. Glock- 5 9 0 z L6 116 153
+58. Synrgia 5 9 0 z W1 113 153
+59. ara ara gaming 5 9 0 z L2 108 179
+60. Cafe Rio Esports 4 9 0 z L7 108 174
+61. Omnia Paratus Gaming 4 10 0 z L2 130 179
+62. Depression 3 9 0 z L8 85 170
+63. NA Prospect 3 9 0 z L2 78 163
+64. Seattle University 3 11 0 z L1 132 189
+65. Siler 1 Kids 3 11 0 z W1 84 190
+66. Druken Fools 3 11 0 z L1 80 181
+67. teamPERSEVERE 2 10 0 z L4 76 167
+68. Tea Suave 2 12 0 z L3 99 201
+69. Enjoy The Free Wins 2 12 0 z L8 62 196
+70. Fallen Blixkys 1 7 0 z L5 36 114
+71. big tiddy waifu squad 0 4 0 z L4 0 64
+72. The Hairy Scary Bandits 0 4 0 z L4 0 64
+73. Catchii McQueen 0 4 0 z L4 0 64
+74. CalI Queens 0 10 0 z L10 2 160

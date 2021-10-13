@@ -1,4 +1,6 @@
 import React from 'react'
+import text from "./newData.txt";
+
 class ESEAWinsInPlayoffs extends React.Component {
     constructor(props) {
         super(props)
@@ -6,14 +8,16 @@ class ESEAWinsInPlayoffs extends React.Component {
             currDiv: '',
             nextDiv: '',
             numWins: '',
-            displayText: '',
+            displayText: ''
         }
         this.handleChange = this.handleChange.bind(this)
         this.handleSubmit = this.handleSubmit.bind(this)
     }
+
     
     handleChange(event) {
         const {name, value} = event.target
+        // console.log(value);
         this.setState({ 
             [name]: value
         })
@@ -62,6 +66,22 @@ class ESEAWinsInPlayoffs extends React.Component {
     }
     
     render() {
+
+        var array = [];
+        fetch(text)
+        .then(r => r.text())
+        .then(text1 => {
+            var lines = text1.split("\n");
+            for (var line = 0; line < lines.length; line++) {
+                var individualArray = []
+                var team = lines[line].replace("\r", "");
+
+                individualArray.push(team)
+                array.push(individualArray);
+            }
+            console.log(array);
+        })
+        
         return (
             <div className="container pt-5">
                 <h3>Choose what division you are in and what division you want to make: </h3>
@@ -70,10 +90,9 @@ class ESEAWinsInPlayoffs extends React.Component {
                     <label>
                         <select 
                             type='text'
-                            value={this.state.division}
                             onChange={this.handleChange}
                             name='currDiv'
-                            class="form-select"
+                            className="form-select"
                         >
                             <option value=''>Select current division</option>
                             <option value='open'>Open</option>
@@ -84,10 +103,9 @@ class ESEAWinsInPlayoffs extends React.Component {
                         <br />
                         <select 
                             type='text'
-                            value={this.state.division}
                             onChange={this.handleChange}
                             name='nextDiv'
-                            class="form-select"
+                            className="form-select"
                         >
                             <option value=''>Select desired division</option>
                             <option value='open'>Open</option>
@@ -96,7 +114,7 @@ class ESEAWinsInPlayoffs extends React.Component {
                             <option value='advanced'>Advanced</option>
                         </select>
                         <br />
-                        <button class="btn btn-primary">Submit</button>
+                        <button className="btn btn-primary">Submit</button>
                     </label>
                 </form>
                 <div>
