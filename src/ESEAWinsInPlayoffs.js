@@ -1,5 +1,4 @@
 import React from 'react'
-import text from "./newData.txt";
 
 class ESEAWinsInPlayoffs extends React.Component {
     constructor(props) {
@@ -14,6 +13,7 @@ class ESEAWinsInPlayoffs extends React.Component {
         this.handleSubmit = this.handleSubmit.bind(this)
     }
 
+    
     
     handleChange(event) {
         const {name, value} = event.target
@@ -66,22 +66,6 @@ class ESEAWinsInPlayoffs extends React.Component {
     }
     
     render() {
-
-        var array = [];
-        fetch(text)
-        .then(r => r.text())
-        .then(text1 => {
-            var lines = text1.split("\n");
-            for (var line = 0; line < lines.length; line++) {
-                var individualArray = []
-                var team = lines[line].replace("\r", "");
-
-                individualArray.push(team)
-                array.push(individualArray);
-            }
-            console.log(array);
-        })
-        
         return (
             <div className="container pt-5">
                 <h3>Choose what division you are in and what division you want to make: </h3>
@@ -121,6 +105,7 @@ class ESEAWinsInPlayoffs extends React.Component {
                     <h3>{this.state.displayText}</h3>
                 </div>
             </div>
+
         )
     }
 }
