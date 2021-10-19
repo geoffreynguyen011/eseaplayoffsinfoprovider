@@ -12,7 +12,6 @@ function App() {
     <div>
       <Intro />
       <ESEAWinsNeedForPlayoffs />
-      {/* <FindTeam /> */}
       <ESEAWinsInPlayoffs />
       <Footer />
     </div>
