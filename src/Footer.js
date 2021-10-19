@@ -14,7 +14,7 @@ function Footer() {
             <ul className='inline'>
                 <div className="container">
                     <li>
-                        <a href='https://github.com/geoffreynguyen011/eseaplayoffsinfo'>
+                        <a href='https://github.com/geoffreynguyen011/eseaplayoffsinfoprovider'>
                             <img src={github} alt={github} style={logoStyle} />
                         </a>
                     </li>
