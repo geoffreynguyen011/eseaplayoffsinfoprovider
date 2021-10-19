@@ -1,0 +1,44 @@
+1, GODSENT, 14, 0, 224, 68
+2, Northern Forces, 12, 2, 212, 112
+3, ATK, 11, 3, 209, 102
+4, ValorsGG, 11, 3, 204, 127
+5, DETONATE, 11, 3, 199, 156
+6, Springroll, 10, 4, 204, 144
+7, Synergy Reborn, 10, 4, 199, 165
+8, Levitate, 10, 4, 193, 154
+9, Deman CSGO, 10, 4, 192, 163
+10, X13, 10, 4, 188, 151
+11, Brigada Shippuden, 9, 5, 207, 165
+12, G4NG, 9, 5, 198, 160
+13, Team Redux, 9, 5, 194, 152
+14, Gones Goners, 9, 5, 188, 143
+15. Rectify Esports, 8, 6, 195, 163
+16, Brazen, 8, 6, 187, 152
+17, VexoEsports, 8, 6, 184, 177
+18, Team Omega, 8, 6, 181, 172
+19, CarbonX Esports, 8, 6, 181, 174
+20, Gemini, 8, 6, 180, 172
+21, Conviction, 8, 6, 177, 164
+22, Touch Point Gaming, 8, 6, 173, 173
+23, Vicious Kitties, 7, 7, 196, 168
+24, team_ConnorRF, 7, 7, 174, 178
+25, Unjustified Gaming, 6, 8, 187, 163
+26, Able Esports, 6, 8, 177, 172
+27, Russian Street Party, 6, 8, 170, 173
+28, Counter Nature, 6, 8, 156, 181
+29, InFinity Esports, 6, 8, 155, 172
+30, Team Factor, 5, 9, 178, 185
+31, YeniCherry, 5, 9, 166, 188
+32, Average M0es, 5, 9, 160, 191
+33, LifeThruGaming, 5, 9, 154, 201
+34, Certified Shooters, 5, 9, 145, 187
+35, Team Volted, 5, 9, 139, 197
+36, NemesisGG, 4, 10, 163, 175
+37. Roblox Gods, 4, 10, 149, 205
+38, CLG RED, 4, 10, 130, 183
+39, PreGaming, 3, 11, 138, 214
+40, bait 4 it, 3, 11, 120, 203
+41, GSG9, 2, 10, 48, 181
+42, Supremacy Gaming, 2, 12, 107, 206
+43, LEGOPEEK, 1, 13, 97, 215
+44, pain peko, 1, 13, 81, 212

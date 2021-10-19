@@ -1,6 +1,8 @@
 import React from 'react'
 import openTeams from "./openTeams.txt";
 import imTeams from "./imTeams.txt";
+import mainTeams from "./mainTeams.txt";
+import advTeams from "./advTeams.txt";
 
 class ESEAWinsNeedForPlayoffs extends React.Component {
     
@@ -49,6 +51,30 @@ class ESEAWinsNeedForPlayoffs extends React.Component {
                 teams.appendChild(option);
             }
             this.setState({ division: "intermediate" });
+        }
+        else if (event.target.value === "main") {
+            teams = document.getElementById("teams");
+            if (teams.options.length > 0) {
+                teams.innerHTML = "none";
+            }
+            for (i = 0; i < this.state.mainTeamsArr.length; i++) {
+                option = document.createElement("option");
+                option.value = this.state.mainTeamsArr[i][1];
+                teams.appendChild(option);
+            }
+            this.setState({ division: "main" });
+        }
+        else if (event.target.value === "advanced") {
+            teams = document.getElementById("teams");
+            if (teams.options.length > 0) {
+                teams.innerHTML = "none";
+            }
+            for (i = 0; i < this.state.advTeamsArr.length; i++) {
+                option = document.createElement("option");
+                option.value = this.state.advTeamsArr[i][1];
+                teams.appendChild(option);
+            }
+            this.setState({ division: "advanced" });
         }
 
         if (!(event.target.value === "open" || event.target.value === "intermediate" || event.target.value === "main" || event.target.value === "advanced")) {
@@ -135,6 +161,78 @@ class ESEAWinsNeedForPlayoffs extends React.Component {
                 imTeamsArr: tempArray
             });
         })
+
+        fetch(mainTeams)
+        .then(r => r.text())
+        .then(text1 => {
+            tempArray = [];
+            var lines = text1.split("\n");
+            for (var line = 0; line < lines.length; line++) {
+                if (lines[line][0] === "/") {
+                    continue;
+                }
+                else {
+                    var team = lines[line].replace("\r", "");
+                    team = team.split(", ");
+                    team[2] = parseInt(team[2]);
+                    team[3] = parseInt(team[3]);
+                    team[4] = parseInt(team[4]);
+                    team[5] = parseInt(team[5]);
+                    tempArray.push(team);
+                }
+            }
+            tempArray = tempArray.sort((a, b) => {
+                if (a[2] === b[2]) {
+                    if (a[3] === b[3]) {
+                        if (a[4] === b[4]) {
+                            return a[5] - b[5]
+                        }
+                        return b[4] - a[4]
+                    }
+                    return a[3] - b[3]
+                }
+                return b[2] - a[2]
+            });
+            this.setState({
+                mainTeamsArr: tempArray
+            });
+        })
+
+        fetch(advTeams)
+        .then(r => r.text())
+        .then(text1 => {
+            tempArray = [];
+            var lines = text1.split("\n");
+            for (var line = 0; line < lines.length; line++) {
+                if (lines[line][0] === "/") {
+                    continue;
+                }
+                else {
+                    var team = lines[line].replace("\r", "");
+                    team = team.split(", ");
+                    team[2] = parseInt(team[2]);
+                    team[3] = parseInt(team[3]);
+                    team[4] = parseInt(team[4]);
+                    team[5] = parseInt(team[5]);
+                    tempArray.push(team);
+                }
+            }
+            tempArray = tempArray.sort((a, b) => {
+                if (a[2] === b[2]) {
+                    if (a[3] === b[3]) {
+                        if (a[4] === b[4]) {
+                            return a[5] - b[5]
+                        }
+                        return b[4] - a[4]
+                    }
+                    return a[3] - b[3]
+                }
+                return b[2] - a[2]
+            });
+            this.setState({
+                advTeamsArr: tempArray
+            });
+        })
         
     }
 
@@ -172,6 +270,40 @@ class ESEAWinsNeedForPlayoffs extends React.Component {
                 this.setState({ 
                     wins: this.state.imTeamsArr[i][2],
                     losses: this.state.imTeamsArr[i][3],
+                })
+            }
+        }
+        else if (this.state.division === "main") {
+            for (i = 0; i < this.state.mainTeamsArr.length; i++) {
+                if (this.state.teamName === this.state.mainTeamsArr[i][1]) {
+                    if (i > 31) {
+                        this.setState ({ isInPlayoffs: "You are currently not in the standing for playoffs. Your record is " + this.state.mainTeamsArr[i][2] + "-" + this.state.mainTeamsArr[i][3] + "." });
+                    }
+                    else {
+                        this.setState({ isInPlayoffs: "You are currently in the standing for playoffs. Your record is " + this.state.mainTeamsArr[i][2] + "-" + this.state.mainTeamsArr[i][3] + "." });
+                    }
+                    break;
+                }
+                this.setState({ 
+                    wins: this.state.mainTeamsArr[i][2],
+                    losses: this.state.mainTeamsArr[i][3],
+                })
+            }
+        }
+        else if (this.state.division === "advanced") {
+            for (i = 0; i < this.state.advTeamsArr.length; i++) {
+                if (this.state.teamName === this.state.advTeamsArr[i][1]) {
+                    if (i > 15) {
+                        this.setState ({ isInPlayoffs: "You are currently not in the standing for playoffs. Your record is " + this.state.advTeamsArr[i][2] + "-" + this.state.advTeamsArr[i][3] + "." });
+                    }
+                    else {
+                        this.setState({ isInPlayoffs: "You are currently in the standing for playoffs. Your record is " + this.state.advTeamsArr[i][2] + "-" + this.state.advTeamsArr[i][3] + "." });
+                    }
+                    break;
+                }
+                this.setState({ 
+                    wins: this.state.advTeamsArr[i][2],
+                    losses: this.state.advTeamsArr[i][3],
                 })
             }
         }
