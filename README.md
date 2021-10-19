@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Info
 
-This is the repository with the most updated changes to the ESEA Playoffs Information Provider. The website used is hosted by heroku, found at https://floating-hamlet-83738.herokuapp.com/.
+This is the repository with the most updated changes to the ESEA Playoffs Information Provider. The website used is hosted by heroku, found at https://eseaplayoffsinfoprovider.herokuapp.com/.
 
 ## Available Scripts
 
