@@ -1,4 +1,6 @@
 import React from 'react'
+import openTeams from "./openTeams.txt";
+import imTeams from "./imTeams.txt";
 
 class ESEAWinsNeedForPlayoffs extends React.Component {
     
@@ -8,68 +10,169 @@ class ESEAWinsNeedForPlayoffs extends React.Component {
             numWins: '',
             division: '',
             madeOrNot: '',
-            displayText: ''
+            displayText: '',
+            teamName: "",
+            openTeamsArr: [],
+            imTeamsArr: [],
+            mainTeamsArr: [],
+            advTeamsArr: [],
+            isInPlayoffs: "",
+            wins: 0,
+            losses: 0
         }
         
         this.handleChange = this.handleChange.bind(this)
-        this.handleSubmit = this.handleSubmit.bind(this)
+        this.handleClick = this.handleClick.bind(this)
     }
     
     handleChange(event) {
+        if (event.target.value === "open") {
+            var teams = document.getElementById("teams");
+            if (teams.options.length > 0) {
+                teams.innerHTML = "none";
+            }
+            for (var i = 0; i < this.state.openTeamsArr.length; i++) {
+                var option = document.createElement("option");
+                option.value = this.state.openTeamsArr[i][1];
+                teams.appendChild(option);
+            }
+            this.setState({ division: "open" });
+        }
+        else if (event.target.value === "intermediate") {
+            teams = document.getElementById("teams");
+            if (teams.options.length > 0) {
+                teams.innerHTML = "none";
+            }
+            for (i = 0; i < this.state.imTeamsArr.length; i++) {
+                option = document.createElement("option");
+                option.value = this.state.imTeamsArr[i][1];
+                teams.appendChild(option);
+            }
+            this.setState({ division: "intermediate" });
+        }
+
+        if (!(event.target.value === "open" || event.target.value === "intermediate" || event.target.value === "main" || event.target.value === "advanced")) {
+            this.setState({ teamName: event.target.value });
+        }
+        // console.log(event.target.value);
         const {name, value} = event.target
-        console.log(value);
+        // console.log(value);
         this.setState({ 
             [name]: value
         })
     }
-    
-    handleSubmit(event) {
-        event.preventDefault()
-        if (this.state.division === '' || this.state.numWins === '') {
-            this.setState({ displayText: 'Please select a division and/or the number of wins'})
+
+
+    componentDidMount() {
+        var tempArray = [];
+        fetch(openTeams)
+        .then(r => r.text())
+        .then(text1 => {
+            var lines = text1.split("\n");
+            for (var line = 0; line < lines.length; line++) {
+                if (lines[line][0] === "/") {
+                    continue;
+                }
+                else {
+                    var team = lines[line].replace("\r", "");
+                    team = team.split(", ");
+                    team[2] = parseInt(team[2]);
+                    team[3] = parseInt(team[3]);
+                    team[4] = parseInt(team[4]);
+                    team[5] = parseInt(team[5]);
+                    tempArray.push(team);
+                }
+            }
+            tempArray = tempArray.sort((a, b) => {
+                if (a[2] === b[2]) {
+                    if (a[3] === b[3]) {
+                        if (a[4] === b[4]) {
+                            return a[5] - b[5]
+                        }
+                        return b[4] - a[4]
+                    }
+                    return a[3] - b[3]
+                }
+                return b[2] - a[2]
+            });
+            this.setState({
+                openTeamsArr: tempArray
+            });
+        })
+
+        fetch(imTeams)
+        .then(r => r.text())
+        .then(text1 => {
+            tempArray = [];
+            var lines = text1.split("\n");
+            for (var line = 0; line < lines.length; line++) {
+                if (lines[line][0] === "/") {
+                    continue;
+                }
+                else {
+                    var team = lines[line].replace("\r", "");
+                    team = team.split(", ");
+                    team[2] = parseInt(team[2]);
+                    team[3] = parseInt(team[3]);
+                    team[4] = parseInt(team[4]);
+                    team[5] = parseInt(team[5]);
+                    tempArray.push(team);
+                }
+            }
+            tempArray = tempArray.sort((a, b) => {
+                if (a[2] === b[2]) {
+                    if (a[3] === b[3]) {
+                        if (a[4] === b[4]) {
+                            return a[5] - b[5]
+                        }
+                        return b[4] - a[4]
+                    }
+                    return a[3] - b[3]
+                }
+                return b[2] - a[2]
+            });
+            this.setState({
+                imTeamsArr: tempArray
+            });
+        })
+        
+    }
+
+
+    handleClick() {
+        var i;
+        if (this.state.division === "open") {
+            for (i = 0; i < this.state.openTeamsArr.length; i++) {
+                if (this.state.teamName === this.state.openTeamsArr[i][1]) {
+                    if (i > 127) {
+                        this.setState ({ isInPlayoffs: "You are currently not in the standing for playoffs. Your record is " + this.state.openTeamsArr[i][2] + "-" + this.state.openTeamsArr[i][3] + "." });
+                    }
+                    else {
+                        this.setState({  isInPlayoffs: "You are currently in the standing for playoffs. Your record is " + this.state.openTeamsArr[i][2] + "-" + this.state.openTeamsArr[i][3] + "." });
+                    }
+                    break;
+                }
+                this.setState({ 
+                    wins: this.state.openTeamsArr[i][2],
+                    losses: this.state.openTeamsArr[i][3],
+                })
+            }
         }
-        else if (this.state.division === 'open') {
-            if (parseInt(this.state.numWins) <= 8) {
-                this.setState({ displayText: 'Did not make playoffs' })
-            }
-            else if (this.state.numWins === '9' || this.state.numWins === '10') {
-                this.setState({ displayText: 'Good chance of making playoffs' })
-            }
-            else {
-                this.setState({ displayText: 'Made playoffs!' })
-            }
-        }
-        else if (this.state.division === 'intermediate') {
-            if (parseInt(this.state.numWins) <= 9) {
-                this.setState({ displayText: 'Did not make playoffs' })
-            }
-            else if (this.state.numWins === '10') {
-                this.setState({ displayText: 'Good chance of making playoffs' })
-            }
-            else {
-                this.setState({ displayText: 'Made playoffs!'})
-            }
-        }
-        else if (this.state.division === 'main') {
-            if (parseInt(this.state.numWins) <= 9) {
-                this.setState({ displayText: 'Did not make playoffs' })
-            }
-            else if (this.state.numWins === '10') {
-                this.setState({ displayText: 'Good chance of making playoffs' })
-            }
-            else {
-                this.setState({ displayText: 'Made playoffs!' })
-            }
-        }
-        else if (this.state.division === 'advanced') {
-            if (parseInt(this.state.numWins) <= 8) {
-                this.setState({ displayText: 'Did not make playoffs' })
-            }
-            else if (this.state.numWins === '9' || this.state.numWins === '10' ) {
-                this.setState({ displayText: 'Good chance of making playoffs' })
-            }
-            else {
-                this.setState({ displayText: 'Made playoffs!' })
+        else if (this.state.division === "intermediate") {
+            for (i = 0; i < this.state.imTeamsArr.length; i++) {
+                if (this.state.teamName === this.state.imTeamsArr[i][1]) {
+                    if (i > 63) {
+                        this.setState ({ isInPlayoffs: "You are currently not in the standing for playoffs. Your record is " + this.state.imTeamsArr[i][2] + "-" + this.state.imTeamsArr[i][3] + "." });
+                    }
+                    else {
+                        this.setState({ isInPlayoffs: "You are currently in the standing for playoffs. Your record is " + this.state.imTeamsArr[i][2] + "-" + this.state.imTeamsArr[i][3] + "." });
+                    }
+                    break;
+                }
+                this.setState({ 
+                    wins: this.state.imTeamsArr[i][2],
+                    losses: this.state.imTeamsArr[i][3],
+                })
             }
         }
     }
@@ -78,58 +181,36 @@ class ESEAWinsNeedForPlayoffs extends React.Component {
   render() {
     return (
       <div className='container pt-5'>
-        <h3>Choose your current division and how many wins you have:</h3>
-        <form className='info-form' onSubmit={this.handleSubmit}>
-            <label>
-                <select 
-                    type='text'
-                    value={this.state.division}
-                    onChange={this.handleChange}
-                    name='division'
-                    className="form-select"
-                >
-                    <option value=''>Select division</option>
-                    <option value='open'>Open</option>
-                    <option value='intermediate'>Intermediate</option>
-                    <option value='main'>Main</option>
-                    <option value='advanced'>Advanced</option>
-                </select>
-                <br />
-                <select
-                    type='text'
-                    name='numWins'
-                    value={this.state.numWins}
-                    onChange={this.handleChange}
-                    className="form-select"
-                >
-                    <option value=''>Select wins</option>
-                    <option value='16'>16</option>
-                    <option value='15'>15</option>
-                    <option value='14'>14</option>
-                    <option value='13'>13</option>
-                    <option value='12'>12</option>
-                    <option value='11'>11</option>
-                    <option value='10'>10</option>
-                    <option value='9'>9</option>
-                    <option value='8'>8</option>
-                    <option value='7'>7</option>
-                    <option value='6'>6</option>
-                    <option value='5'>5</option>
-                    <option value='4'>4</option>
-                    <option value='3'>3</option>
-                    <option value='2'>2</option>
-                    <option value='1'>1</option>
-                    <option value='0'>0</option>
-                </select>
-                
-                <br />
-                <button className="btn btn-primary">Submit</button>
-                <div>
-                    <h3 className="pt-3">{this.state.displayText}</h3>
-                </div>
-            </label>
-        </form>
-        
+            <label>What division are you in?</label>
+            <select 
+                type='text'
+                value={this.state.division}
+                onChange={this.handleChange}
+                name='division'
+                className="form-select"
+            >
+                <option value=''>Select division</option>
+                <option value='open'>Open</option>
+                <option value='intermediate'>Intermediate</option>
+                <option value='main'>Main</option>
+                <option value='advanced'>Advanced</option>
+            </select>
+            <h3 className="pt-3">{this.state.displayText}</h3>
+            <span>Find your team here (type your team name or find your team): </span>
+            <input 
+            type="text" 
+            className="form-control"
+            onChange={this.handleChange} 
+            list="teams"
+            />
+            <datalist id="teams"></datalist>
+            <button 
+            className="btn btn-primary mt-3"
+            onClick={this.handleClick}
+            >
+                Check playoffs status
+            </button>
+            <p className="mt-2" id="isInPlayoffs">{this.state.isInPlayoffs}</p>
       </div>
     );
   }

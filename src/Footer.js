@@ -9,9 +9,9 @@ function Footer() {
         maxHeight: 50,
     };
     return (
-        <div class='footer'>
-            <ul class='inline'>
-                <div class="container">
+        <div className='footer'>
+            <ul className='inline'>
+                <div className="container">
                     <li>
                         <a href='https://github.com/geoffreynguyen011/eseaplayoffsinfo'>
                             <img src={github} alt={github} style={logoStyle} />

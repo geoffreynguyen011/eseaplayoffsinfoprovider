@@ -1,0 +1,397 @@
+1, SKULLCRACKER, 14, 0, 224, 69
+2, The Fundamentals, 13, 1, 221, 71
+3, Zips Esports, 12, 2, 218, 104
+4, NetcodeGuides, 12, 2, 214, 133
+5, open 4ever, 12, 2, 211, 109
+6, Ax1s, 11, 3, 212, 107
+7, gr4ndpa go0nz, 11, 3, 206, 121
+8, vulture Team, 11, 3, 205, 119
+9, Sams Salty Fraggots, 11, 3, 202, 129
+10, Viral Esports Club, 11, 3, 201, 131
+11, bumblebeefae, 11, 3, 190, 135
+12, Randolph-Macon College, 10, 4, 217, 122
+13, vibe check, 10, 4, 214, 129
+14, Daddies Get Baddies, 10, 4, 210, 141
+15, Generation Greed, 10, 4, 209, 156
+16, North Moosea, 10, 4, 206, 134
+17, Tie or Lose, 10, 4, 203, 125
+18, 1996 Farming Bats, 10, 4, 202, 131
+19, RegencyRising, 10, 4, 200, 143
+20, WeMetOnBumble, 10, 4, 197, 136
+21, nimas boy toys, 10, 4, 196, 126
+22, Addison Rae Fanclub, 10, 4, 196, 130
+23, Tempest Gaming Blue, 10, 4, 196, 134
+24, Trine University, 10, 4, 196, 136
+25, Bright N Healthy, 10, 4, 196, 157
+26, Mikeys Goons, 10, 4, 194, 140
+27, Eternal Spring, 10, 4, 190, 150
+28, Wolf Pack Gaming, 10, 4, 186, 143
+29, Fuck Satan Jesus Forever, 9, 5, 202, 131
+30, ANIME SUCKS, 9, 5, 200, 147
+31, Team Shutdown, 9, 5, 198, 179
+32, GEM Reborn, 9, 5, 197, 133
+33, Getting Involved, 9, 5, 196, 136
+34, Atletico Ham, 9, 5, 192, 128
+35, Team Aladdin, 9, 5, 190, 117
+36, Satriales, 9, 5, 190, 146
+37, G0DSQUAD, 9, 5, 187, 133
+38, 99SLAYER, 9, 5, 178, 169
+39, The Significant Brothers, 9, 5, 173, 186
+40, Warriors International, 9, 5, 169, 143
+41, 7th Dimension, 9, 5, 168, 139
+42, 4FunGaymers, 8, 6, 198, 176
+43, Revelations CS, 8, 6, 195, 141
+44, Ez Cheeks, 8, 6, 193, 167
+45, Team DVS, 8, 6, 187, 173
+46, HASTE, 8, 6, 184, 158
+47, SKUM_Gaming, 8, 6, 179, 181
+48, Peaky Blinders, 8, 6, 177, 146
+49, Lets get this money, 8, 6, 177, 149
+50, coopers fatty, 8, 6, 173, 159
+51, Driven to Insanity, 8, 6, 168, 149
+52, ThinIce, 8, 6, 166, 182
+53, Pr1med Esports, 8, 6, 159, 125
+54, The Part Time Poppers, 7, 7, 199, 167
+55, MADWOOKIE-COM, 7, 7, 191, 161
+56, Fuck Me Like You Want Me, 7, 7, 183, 155
+57, 4 Chicks and a Lizard, 7, 7, 183, 165
+58, 7cm Gang, 7, 7, 180, 165
+59, Fighting Scots CS, 7, 7, 176, 164
+60, DooM Gaming, 7, 7, 174, 138
+61, rankONE, 7, 7, 173, 181
+62, AKs 2nd Round, 7, 7, 171, 167
+63, TrashUniPlayers, 7, 7, 170, 152
+64, Night Out, 7, 7, 167, 128
+65, Thiccquid, 7, 7, 163, 172
+66, splitsecond, 7, 7, 163, 193
+67, 18CM Gang, 7, 7, 162, 134
+68, Team Mageester Marbles, 7, 7, 160, 160
+69, The Paramedics, 7, 7, 157, 138
+70, Snailb0tz FC, 7, 7, 157, 149
+71, the Gas Station, 7, 7, 156, 151
+72, Defiant eSports, 6, 8, 176, 166
+73, EJAX JAGUARS, 6, 8, 175, 158
+74, Washed Up Bricks, 6, 8, 168, 175
+75, Gym Rats, 6, 8, 168, 179
+76, TR4SH BAGS, 6, 8, 157, 168
+77, CuteAim, 6, 8, 157, 172
+78, Hi Octane, 6, 8, 156, 171
+79, Troglydytes, 6, 8, 155, 162
+80, Hypa, 6, 8, 151, 144
+81, DMT Elves, 6, 8, 149, 155
+82, ASUS PRIME Z370-A, 6, 8, 143, 169
+83, we only play half season, 6, 8, 134, 157
+84, Geester Gaming, 6, 8, 134, 171
+85, Stewie2k Fan Boys, 6, 8, 129, 154
+86, Small Chillin, 6, 8, 120, 170
+87, RAW BEEF, 6, 8, 108, 178
+88, Late To Dinner, 5, 7, 94, 139
+89, The Danger Crew, 5, 9, 166, 194
+90, Archangel, 5, 9, 163, 167
+91, Never 2 Old, 5, 9, 162, 153
+92, wr3k, 5, 9, 162, 200
+93, DR AMP, 5, 9, 143, 157
+94, Team Dazed, 5, 9, 143, 167
+95, Team Planet, 5, 9, 143, 172
+96, TENDIE TIMES OVER, 5, 9, 142, 161
+97, cs with the boys, 5, 9, 133, 158
+98, Os Baianos, 5, 9, 133, 168
+99, Old N Busted, 5, 9, 127, 172
+100, Winners Circle, 5, 9, 120, 158
+101, Team FROG, 5, 9, 111, 175
+102, Iknewpower, 4, 10, 124, 174
+103, Trace Gaming, 4, 10, 119, 171
+104, TeamStrqfe, 4, 10, 113, 176
+105, Family Friendly, 4, 10, 109, 187
+106, Members Only, 4, 10, 108, 160
+107, 4D Chess, 4, 10, 105, 174
+108, -Castaic, 4, 10, 104, 181
+109, Washed Up Bowlcuts, 4, 10, 97, 180
+110, BRAIN DEAD MUTANTS, 3, 7, 58, 149
+111, Toad Helmet Company, 3, 11, 130, 176
+112, Iraqi Legends, 3, 11, 123, 205
+113, Project D, 3, 11, 84, 195
+114, RetiredFromValorant, 2, 8, 50, 135
+115, xentrik v9, 2, 8, 35, 149
+116, Angry Alpacas, 2, 10, 50, 160
+117, Wait For It Gaming, 2, 12, 110, 207
+118, -For The Boyz-, 2, 12, 90, 203
+119, Disoryn, 2, 12, 66, 210
+120, werhere2sleep, 1, 7, 27, 124
+121, 30 years or older, 1, 7, 22, 126
+122, Himalayan Salt Babies, 1, 13, 66, 208
+123, We Live in a Town Hall, 0, 4, 0, 64
+124, TEAM LTD, 0, 6, 0, 96
+125, Gold Money Grillz, 0, 8, 10, 128
+126, Scum EC, 0, 8, 8, 128
+127, The Placeholders, 0, 8, 0, 128
+128, Forged, 0, 12, 47, 192
+# Central Conference
+# Upcoming Matches
+1, Short Bus Shooters, 14, 0, 224, 137
+2, NotFedEx, 13, 1, 221, 109
+3, Team Kaizen, 13, 1, 218, 112
+4, G4P Squad, 12, 2, 222, 116
+5, Goofy Goober Gaming, 12, 2, 221, 122
+6, Wiffys, 12, 2, 215, 102
+7, Zoom Gang, 12, 2, 212, 130
+8, Eternal Reign, 12, 2, 207, 71
+9, HKTijuanaDotCom, 11, 3, 217, 124
+10, TeamAdversary, 11, 3, 214, 96
+11, Vandals NA, 11, 3, 210, 101
+12, Ex-Thunder Logic, 11, 3, 209, 117
+13, Party Parrots, 11, 3, 208, 122
+14, Flawks flock, 11, 3, 208, 148
+15, PANDASQUARE, 11, 3, 206, 153
+16, Goin Huge, 11, 3, 202, 117
+17, good game lel, 11, 3, 202, 129
+18, Cyrious, 11, 3, 202, 142
+19, The Prussian Blues, 11, 3, 194, 137
+20, henny prices, 11, 3, 186, 126
+21, The Untouchaballs, 11, 3, 185, 142
+22, Girth Lords, 10, 4, 217, 141
+23, Sleepless_Gaming, 10, 4, 207, 158
+24, Folgsters Kittens, 10, 4, 204, 116
+25, Lettuce Frag, 10, 4, 204, 148
+26, poops bowling team, 10, 4, 204, 153
+27, 1027, 10, 4, 200, 124
+28, Second Effort, 10, 4, 198, 142
+29, Dogwater Part II, 10, 4, 197, 164
+30, 50 adr Luke, 10, 4, 196, 122
+31, CrackedOutMonkes, 10, 4, 196, 141
+32, CAWK Squad, 10, 4, 194, 139
+33, HardKaris v3, 10, 4, 193, 123
+34, Average Joes A Team, 10, 4, 193, 124
+35, 1-WAY CS, 10, 4, 190, 139
+36, Levitate Acad, 10, 4, 187, 132
+37, Daydreamin, 10, 4, 187, 150
+38, fAmiLy coMpUteR, 10, 4, 187, 163
+39, Spooky Ghosts, 10, 4, 184, 168
+40, Kids vs Dads, 9, 5, 211, 154
+41, Traphouse, 9, 5, 210, 157
+42, Sway, 9, 5, 207, 131
+43, Elemental eSports, 9, 5, 205, 132
+44, NorthStar, 9, 5, 203, 131
+45, Peek-A-Boomers, 9, 5, 202, 139
+46, Unturned Peek, 9, 5, 200, 133
+47, LimeCats,- 9, 5, 200, 158
+48, Resurgence, 9, 5, 197, 170
+49, Main Scrim Team 2, 9, 5, 196, 180
+50, We Bag Tea, 9, 5, 194, 111
+51, Extra Chromie Homies, 9, 5, 192, 140
+52, CSTA, 9, 5, 192, 154
+53, Square Foot, 9, 5, 190, 171
+54, Team tosiK, 9, 5, 187, 125
+55, Project Susanoo, 9, 5, 187, 141
+56, Desire 2 Excel, 9, 5, 186, 169
+57, WastedPotential, 9, 5, 185, 179
+58, Mous3, 9, 5, 183, 164
+59, Say Word, 9, 5, 175, 166
+60, Coastal Gaming, 9, 5, 174, 145
+61, Monkey Salad, 9, 5, 172, 164
+62, Super Soaker Club, 9, 5, 171, 170
+63, Sneaky Simps, 9, 5, 170, 131
+64, Party Hat Enthusiasts, 8, 6, 205, 155
+65, High Times Academy, 8, 6, 199, 132
+66, CRZ Esports Club, 8, 6, 198, 158
+67, Snack Bar, 8, 6, 196, 141
+68, small monkey Jon deere, 8, 6, 193, 150
+69, BLOONS YESSIR, 8, 6, 193, 158
+70, no johns, 8, 6, 193, 163
+71, DRIP GAMING, 8, 6, 191, 130
+72, Peeked in Highschool, 8, 6, 190, 157
+73, OmniGames, 8, 6, 188, 131
+74, Dings Buddies, 8, 6, 188, 165
+75, Shoot To Win, 8, 6, 187, 158
+76, hildys bus, 8, 6, 186, 174
+77, GG Then, 8, 6, 185, 165
+78, Figure 8 Esports, 8, 6, 184, 159
+79, meow, 8, 6, 184, 171
+80, Syndicate CSGO, 8, 6, 183, 132
+81, One Eye, 8, 6, 183, 179
+82, Red Green Blue, 8, 6, 183, 189
+83, EyesOnUs, 8, 6, 182, 140
+84, Full Mongo, 8, 6, 182, 157
+85, Toman, 8, 6, 182, 158
+86, we are the team, 8, 6, 181, 155
+87, STORM Esports, 8, 6, 180, 118
+88, For Rudy, 8, 6, 180, 164
+89, oatmeal raisin, 8, 6, 179, 146
+90, Kahoot Squad, 8, 6, 178, 159
+91, ex black jackals, 8, 6, 177, 165
+92, Lemon Party, 8, 6, 176, 146
+93, Champagne Gaming, 8, 6, 175, 178
+94, Tea Mates, 8, 6, 169, 145
+95, WeKindaSuck, 8, 6, 151, 153
+96, Trigger-Happy, 8, 6, 147, 158
+97, Infamous Era, 7, 7, 201, 159
+98, Kodak Moment, 7, 7, 191, 169
+99, Marquette CS, 7, 7, 187, 166
+100, BEGONETOXIC, 7, 7, 187, 188
+101, Deadset Esports, 7, 7, 181, 177
+102, Malicious Intent CS, 7, 7, 175, 153
+103, Esports Extravaganza, 7, 7, 175, 167
+104, xXTurbo Virgins IWNLxX, 7, 7, 174, 188
+105, Forfeit Merchants, 7, 7, 172, 156
+106, ZUM ZUM SHAMANS, 7, 7, 170, 185
+107, Omnes V, 7, 7, 165, 171
+108, Red Soccer Team, 7, 7, 164, 147
+109, Fraggin For Nelson, 7, 7, 163, 182
+110, Sucklet Academy, 7, 7, 162, 165
+111, Gamer Hands, 7, 7, 161, 165
+112, Goats and Glory, 7, 7, 161, 170
+113, soju boys, 7, 7, 158, 166
+114, Didactic, 6, 8, 178, 155
+115, VibeCheck, 6, 8, 177, 173
+116, Spooky Manor EC, 6, 8, 174, 160
+117, EX-Agitate, 6, 8, 174, 160
+118, The Wife Beaters, 6, 8, 172, 152
+119, Natural Talent, 6, 8, 172, 189
+120, Birds Boomers, 6, 8, 171, 162
+121, Low Trust Factor, 6, 8, 168, 175
+122, Deranged Drunkies, 6, 8, 166, 164
+123, Atlantic-Gaming, 6, 8, 166, 169
+124, Homeland Security, 6, 8, 165, 170
+125, mostWanted, 6, 8, 164, 144
+126, Geriatric Gamers, 6, 8, 163, 165
+127, Sneeds Feed And Seed, 6, 8, 162, 188
+128, Nates Master Baiters, 6, 8, 161, 159
+129, SoloCanuck, 6, 8, 160, 174
+130, Team Alchemy Lightning, 6, 8, 159, 174
+131, Trash Bandits, 6, 8, 157, 187
+132, Samurai In Mini Pajams, 6, 8, 156, 163
+133, Moley, 6, 8, 156, 200
+134, WhatUpShawny, 6, 8, 154, 178
+135, Vicious Kitties Academy, 6, 8, 153, 137
+136, Tropical Summer, 6, 8, 153, 165
+137, LJT520, 6, 8, 153, 191
+138, -Valor,- 6, 8, 152, 159
+139, ScatmansMoneyCrew, 6, 8, 150, 177
+140, Chasmic, 6, 8, 148, 160
+141, Official Team Ace, 6, 8, 143, 177
+142, Famas On T-Side, 6, 8, 140, 164
+143, Unloaded Tyrants, 6, 8, 136, 142
+144, NA Bannermen, 6, 8, 136, 173
+145, CSBSJU, 5, 9, 177, 188
+146, interesting Team name, 5, 9, 168, 170
+147, walleyworld, 5, 9, 167, 173
+148, NA Bannermen Bravo, 5, 9, 165, 176
+149, UTG Meme Team, 5, 9, 161, 198
+150, Beemers, 5, 9, 157, 165
+151, Anger and Aggression, 5, 9, 151, 188
+152, The Tinderellas 4, 5, 9, 149, 183
+153, No RSPWN, 5, 9, 147, 187
+154, WitnessTheSickness, 5, 9, 146, 179
+155, Team Balance, 5, 9, 146, 179
+156, DRC, 5, 9, 139, 165
+157, Special Needs Unit, 5, 9, 139, 188
+158, Tostitos Gaming, 5, 9, 126, 191
+159, Radiation Gaming, 5, 9, 122, 183
+160, wadsWARdogs, 5, 9, 119, 168
+161, Warriors Wanted, 5, 9, 113, 171
+162, BIGPP PLAYS, 4, 6, 66, 120
+163, Team Dyre, 4, 8, 88, 154
+164, TeamSkyline, 4, 10, 149, 203
+165, wha1e_Esports, 4, 10, 142, 175
+166, UNA eSports, 4, 10, 137, 193
+167, Cringe Champs, 4, 10, 131, 183
+168, Blitzkrieg, 4, 10, 126, 176
+169, Puls3, 4, 10, 126, 196
+170, Apes In Capes, 4, 10, 122, 181
+171, Tattletale Stranglers, 4, 10, 117, 193
+172, Boosted, 4, 10, 113, 191
+173, Rad Dads, 4, 10, 112, 170
+174, Birds of War, 4, 10, 109, 181
+175, ICannotAcceptThat, 4, 10, 99, 170
+176, TURBOAMPHETAMINE USERS, 3, 5, 56, 110
+177, BulkSzn, 3, 7, 89, 126
+178, cheesed to meet you, 3, 7, 68, 146
+179, Boston Creamers, 3, 9, 61, 170
+180, AUTOPILOT, 3, 11, 143, 191
+181, ZeroMeta, 3, 11, 133, 195
+182, Dwayne Haskins Fan Club, 3, 11, 110, 192
+183, AwpFest, 3, 11, 108, 188
+184, PSDN, 3, 11, 100, 189
+185, The Fiends, 3, 11, 99, 200
+186, Crossfire Gaming, 2, 6, 70, 111
+187, Catalysts, 2, 6, 57, 111
+188, 5 AM, 2, 8, 68, 135
+189, GoodNewsBears, 2, 10, 97, 173
+190, The Mental Ward, 2, 10, 68, 179
+191, Quasar eSports, 2, 10, 46, 172
+192, ChillCS, 2, 12, 135, 206
+193, Checkl6, 2, 12, 113, 205
+194, Simply Illogical, 2, 12, 102, 192
+195, Mostly Drunk, 2, 12, 85, 205
+196, LA FloodZ, 2, 12, 74, 210
+197, Stoop Kids, 1, 7, 43, 127
+198, deadteam3232, 1, 7, 26, 112
+199, StaffCantShoot, 1, 7, 20, 112
+200, Spartan Clan Competitive, 1, 10, 43, 160
+201, Catgirl Corp, 1, 11, 56, 190
+202, Sancire eSports, 1, 11, 55, 188
+203, Malice Gaming, 1, 13, 89, 222
+204, D3adDrop, 0, 4, 0, 64
+205, Fitzzys Femboys, 0, 6, 0, 96
+206, SOUFSIDE BANGIN, 0, 6, 0, 96
+207, adam mode, 0, 8, 13, 128
+208, Next Level, 0, 9, 12, 144
+209, bendis anime club, 0, 10, 35, 160
+# West Conference
+# Upcoming Matches
+1, peen team, 13, 1, 222, 101
+2, Wanduzi, 12, 2, 205, 145
+3, Drewbys Money Crew, 11, 3, 217, 138
+4, Rxndys Soldiers, 11, 3, 206, 123
+5, Aim High, 10, 4, 210, 123
+6, BOOMERZ, 10, 4, 202, 152
+7, Oso, 10, 4, 197, 141
+8, Kings of Swing, 10, 4, 193, 155
+9, 9-7 Open Team, 9, 5, 199, 138
+10, OffTheGoop, 9, 5, 198, 158
+11, TheTuneSquad, 9, 5, 196, 164
+12, VCU, 9, 5, 194, 153
+13, Voltage_Esports, 9, 5, 190, 156
+14, Shibsekkya Jr, 9, 5, 188, 153
+15, Upstaged, 9, 5, 184, 138
+16, Indelible FragZ, 9, 5, 183, 162
+17, P2 Gang, 9, 5, 181, 166
+18, Akatsuki Vibes, 9, 5, 179, 149
+19, ramp and clamp, 8, 6, 194, 157
+20, Public Enemy, 8, 6, 194, 168
+21, old men gaming,- 8, 6, 191, 131
+22, Internet Relay Chat, 8, 6, 178, 134
+23, HeadShotBoys, 8, 6, 171, 129
+24, road to open, 8, 6, 162, 140
+25, Lickity Split, 7, 7, 183, 177
+26, rock ya snot box, 7, 7, 182, 156
+27, uK, 7, 7, 177, 186
+28, Deman Esports Rising, 7, 7, 174, 154
+29, TurdBurglars, 7, 7, 174, 155
+30, DiGiorno, 7, 7, 164, 158
+31, Army Men, 7, 7, 161, 150
+32, Cal Poly, 7, 7, 154, 156
+33, Bending Academy, 6, 8, 184, 165
+34, c4s, 6, 8, 168, 154
+35, AffinityGaming, 6, 8, 166, 158
+36, potentElixir, 6, 8, 162, 168
+37, BelugaAndRealFriends, 6, 8, 160, 177
+38, Sponsored By, 6, 8, 151, 157
+39, Old N Bold, 5, 9, 161, 164
+40, EgoPeeK, 5, 9, 155, 178
+41, Team Ardor, 5, 9, 118, 162
+42, JEEPNEY KINGS, 4, 8, 90, 153
+43, LeBad, 4, 10, 130, 188
+44, Rat Kings, 4, 10, 120, 192
+45, WeBangin, 4, 10, 108, 179
+46, IMPETU, 3, 5, 48, 84
+47, heehees Jokers, 3, 9, 67, 172
+48, Oregon State, 3, 11, 109, 192
+49, de_ez nutz, 3, 11, 90, 176
+50, Midnight MatchMakers, 2, 4, 32, 64
+51, THEUNITEDSTATES, 2, 12, 88, 210
+52, Hat Wearin Hoochie Mamas, 2, 12, 69, 204
+53, Mysticis, 1, 5, 28, 95
+54, Yeez United, 1, 7, 37, 119
+55, caffine and counterstrik, 0, 6, 16, 96
+56, The Old Boys, 0, 6, 9, 96

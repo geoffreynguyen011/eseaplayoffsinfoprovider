@@ -13,7 +13,9 @@ class ESEAWinsInPlayoffs extends React.Component {
         this.handleSubmit = this.handleSubmit.bind(this)
     }
 
-    
+    componentDidMount() {
+        
+    }
     
     handleChange(event) {
         const {name, value} = event.target
@@ -68,23 +70,24 @@ class ESEAWinsInPlayoffs extends React.Component {
     render() {
         return (
             <div className="container pt-5">
-                <h3>Choose what division you are in and what division you want to make: </h3>
+                <h1>Fill out the following information to see how many wins you need to make your desired division.</h1>
                 <br />
                 <form onSubmit={this.handleSubmit}>
-                    <label>
-                        <select 
-                            type='text'
-                            onChange={this.handleChange}
-                            name='currDiv'
-                            className="form-select"
-                        >
-                            <option value=''>Select current division</option>
-                            <option value='open'>Open</option>
-                            <option value='intermediate'>Intermediate</option>
-                            <option value='main'>Main</option>
-                            <option value='advanced'>Advanced</option>
-                        </select>
-                        <br />
+                    <label>What division are you in?</label>
+                    <select 
+                        type='text'
+                        onChange={this.handleChange}
+                        name='currDiv'
+                        className="form-select"
+                    >
+                        <option value=''>Select current division</option>
+                        <option value='open'>Open</option>
+                        <option value='intermediate'>Intermediate</option>
+                        <option value='main'>Main</option>
+                        <option value='advanced'>Advanced</option>
+                    </select>
+                    <br />
+                    <label>What division do you want to make?</label>
                         <select 
                             type='text'
                             onChange={this.handleChange}
@@ -99,7 +102,6 @@ class ESEAWinsInPlayoffs extends React.Component {
                         </select>
                         <br />
                         <button className="btn btn-primary">Submit</button>
-                    </label>
                 </form>
                 <div>
                     <h3>{this.state.displayText}</h3>
