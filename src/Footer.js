@@ -10,6 +10,7 @@ function Footer() {
     };
     return (
         <div className='footer'>
+            <hr />
             <ul className='inline'>
                 <div className="container">
                     <li>
