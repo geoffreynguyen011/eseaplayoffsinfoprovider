@@ -163,10 +163,10 @@ class ESEAWinsNeedForPlayoffs extends React.Component {
             for (i = 0; i < this.state.openTeamsArr.length; i++) {
                 if (this.state.teamName === this.state.openTeamsArr[i][1]) {
                     if (i > 127) {
-                        this.setState ({ isInPlayoffs: notInPlayoffs + this.state.openTeamsArr[i][2] + "-" + this.state.openTeamsArr[i][3] + "." });
+                        this.setState ({ isInPlayoffs: notInPlayoffs + this.state.openTeamsArr[i][2] + "-" + this.state.openTeamsArr[i][3] + " with a seed of " + (i + 1) + "." });
                     }
                     else {
-                        this.setState({  isInPlayoffs: inPlayoffs + this.state.openTeamsArr[i][2] + "-" + this.state.openTeamsArr[i][3] + "." });
+                        this.setState({  isInPlayoffs: inPlayoffs + this.state.openTeamsArr[i][2] + "-" + this.state.openTeamsArr[i][3] + " with a seed of " + (i + 1) + "." });
                     }
                     break;
                 }
@@ -180,10 +180,10 @@ class ESEAWinsNeedForPlayoffs extends React.Component {
             for (i = 0; i < this.state.imTeamsArr.length; i++) {
                 if (this.state.teamName === this.state.imTeamsArr[i][1]) {
                     if (i > 63) {
-                        this.setState ({ isInPlayoffs: notInPlayoffs + this.state.imTeamsArr[i][2] + "-" + this.state.imTeamsArr[i][3] + "." });
+                        this.setState ({ isInPlayoffs: notInPlayoffs + this.state.imTeamsArr[i][2] + "-" + this.state.imTeamsArr[i][3] + " with a seed of " + (i + 1) + "." });
                     }
                     else {
-                        this.setState({ isInPlayoffs: inPlayoffs + this.state.imTeamsArr[i][2] + "-" + this.state.imTeamsArr[i][3] + "." });
+                        this.setState({ isInPlayoffs: inPlayoffs + this.state.imTeamsArr[i][2] + "-" + this.state.imTeamsArr[i][3] + " with a seed of " + (i + 1) + "." });
                     }
                     break;
                 }
@@ -197,10 +197,10 @@ class ESEAWinsNeedForPlayoffs extends React.Component {
             for (i = 0; i < this.state.mainTeamsArr.length; i++) {
                 if (this.state.teamName === this.state.mainTeamsArr[i][1]) {
                     if (i > 31) {
-                        this.setState ({ isInPlayoffs: notInPlayoffs + this.state.mainTeamsArr[i][2] + "-" + this.state.mainTeamsArr[i][3] + "." });
+                        this.setState ({ isInPlayoffs: notInPlayoffs + this.state.mainTeamsArr[i][2] + "-" + this.state.mainTeamsArr[i][3] + " with a seed of " + (i + 1) + "." });
                     }
                     else {
-                        this.setState({ isInPlayoffs: inPlayoffs + this.state.mainTeamsArr[i][2] + "-" + this.state.mainTeamsArr[i][3] + "." });
+                        this.setState({ isInPlayoffs: inPlayoffs + this.state.mainTeamsArr[i][2] + "-" + this.state.mainTeamsArr[i][3] + " with a seed of " + (i + 1) + "." });
                     }
                     break;
                 }
@@ -214,10 +214,10 @@ class ESEAWinsNeedForPlayoffs extends React.Component {
             for (i = 0; i < this.state.advTeamsArr.length; i++) {
                 if (this.state.teamName === this.state.advTeamsArr[i][1]) {
                     if (i > 15) {
-                        this.setState ({ isInPlayoffs: notInPlayoffs + this.state.advTeamsArr[i][2] + "-" + this.state.advTeamsArr[i][3] + "." });
+                        this.setState ({ isInPlayoffs: notInPlayoffs + this.state.advTeamsArr[i][2] + "-" + this.state.advTeamsArr[i][3] + " with a seed of " + (i + 1) + "." });
                     }
                     else {
-                        this.setState({ isInPlayoffs: inPlayoffs + this.state.advTeamsArr[i][2] + "-" + this.state.advTeamsArr[i][3] + "." });
+                        this.setState({ isInPlayoffs: inPlayoffs + this.state.advTeamsArr[i][2] + "-" + this.state.advTeamsArr[i][3] + " with a seed of " + (i + 1) + "." });
                     }
                     break;
                 }
