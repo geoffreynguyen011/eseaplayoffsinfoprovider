@@ -4,6 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This is the repository with the most updated changes to the ESEA Playoffs Information Provider. The website used is hosted by heroku, found at https://eseaplayoffsinfoprovider.herokuapp.com/.
 
+***UPDATE***
+The project is currently on hold as of 10/25/2021 since ESEA has anti-scraping methods. I cannot automatically gather data from league divisions.
+
 ## Available Scripts
 
 In the project directory, you can run:
